@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Kings 3:25"]
+---
+[2 Kings 3:25](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/3?lang=eng&id=p25#p25) And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir-haraseth left they the stones thereof; howbeit the slingers went about it, and smote it.

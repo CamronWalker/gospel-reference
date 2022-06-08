@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Samuel 11:11"]
+---
+[2 Samuel 11:11](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=eng&id=p11#p11) And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife?  as thou livest, and as thy soul liveth, I will not do this thing.

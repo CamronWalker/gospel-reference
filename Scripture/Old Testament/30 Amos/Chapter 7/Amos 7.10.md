@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Amos 7:10"]
+---
+[Amos 7:10](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=eng&id=p10#p10) ¶ Then Amaziah the priest of Beth-el sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.

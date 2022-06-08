@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Numbers 1:51"]
+---
+[Numbers 1:51](https://churchofjesuschrist.org/study/scriptures/ot/num/1?lang=eng&id=p51#p51) And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.

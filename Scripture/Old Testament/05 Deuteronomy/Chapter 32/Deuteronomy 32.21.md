@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Deuteronomy 32:21"]
+---
+[Deuteronomy 32:21](https://churchofjesuschrist.org/study/scriptures/ot/deut/32?lang=eng&id=p21#p21) They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.

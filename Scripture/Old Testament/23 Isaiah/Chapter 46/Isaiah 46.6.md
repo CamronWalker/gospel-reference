@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Isaiah 46:6"]
+---
+[Isaiah 46:6](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=eng&id=p6#p6) They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.

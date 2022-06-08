@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Genesis 1:30"]
+---
+[Genesis 1:30](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p30#p30) And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.

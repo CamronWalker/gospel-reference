@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Numbers 18:5"]
+---
+[Numbers 18:5](https://churchofjesuschrist.org/study/scriptures/ot/num/18?lang=eng&id=p5#p5) And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.

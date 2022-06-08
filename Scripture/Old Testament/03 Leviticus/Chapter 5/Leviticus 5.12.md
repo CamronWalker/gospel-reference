@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Leviticus 5:12"]
+---
+[Leviticus 5:12](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=eng&id=p12#p12) Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering.

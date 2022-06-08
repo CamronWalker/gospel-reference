@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Genesis 24:65"]
+---
+[Genesis 24:65](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng&id=p65#p65) For she had said unto the servant, What man is this that walketh in the field to meet us?  And the servant had said, It is my master: therefore she took a vail, and covered herself.

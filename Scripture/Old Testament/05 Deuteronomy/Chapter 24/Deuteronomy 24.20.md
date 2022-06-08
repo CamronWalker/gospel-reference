@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Deuteronomy 24:20"]
+---
+[Deuteronomy 24:20](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=eng&id=p20#p20) When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow.

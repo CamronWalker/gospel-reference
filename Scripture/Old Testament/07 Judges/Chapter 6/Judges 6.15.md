@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Judges 6:15"]
+---
+[Judges 6:15](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng&id=p15#p15) And he said unto him, Oh my Lord, wherewith shall I save Israel?  behold, my family is poor in Manasseh, and I am the least in my father's house.

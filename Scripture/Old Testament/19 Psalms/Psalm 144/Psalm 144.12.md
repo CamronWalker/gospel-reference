@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Psalm 144:12"]
+---
+[Psalm 144:12](https://churchofjesuschrist.org/study/scriptures/ot/ps/144?lang=eng&id=p12#p12) That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:

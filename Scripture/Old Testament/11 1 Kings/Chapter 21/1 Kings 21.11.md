@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["1 Kings 21:11"]
+---
+[1 Kings 21:11](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=eng&id=p11#p11) And the men of his city, even the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, and as it was written in the letters which she had sent unto them.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Chronicles 10:16"]
+---
+[2 Chronicles 10:16](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=eng&id=p16#p16) ¶ And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David?  and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to thine own house.  So all Israel went to their tents.

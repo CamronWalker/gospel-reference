@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Deuteronomy 7:8"]
+---
+[Deuteronomy 7:8](https://churchofjesuschrist.org/study/scriptures/ot/deut/7?lang=eng&id=p8#p8) But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.

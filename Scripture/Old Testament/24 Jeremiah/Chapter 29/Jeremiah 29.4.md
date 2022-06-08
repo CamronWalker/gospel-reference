@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Jeremiah 29:4"]
+---
+[Jeremiah 29:4](https://churchofjesuschrist.org/study/scriptures/ot/jer/29?lang=eng&id=p4#p4) Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;

@@ -1,0 +1,10 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Ezekiel 17:24"]
+---
+[Ezekiel 17:24](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=eng&id=p24#p24) And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done it.
+
+
+
+

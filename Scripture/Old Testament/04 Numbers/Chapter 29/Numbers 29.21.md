@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Numbers 29:21"]
+---
+[Numbers 29:21](https://churchofjesuschrist.org/study/scriptures/ot/num/29?lang=eng&id=p21#p21) And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:

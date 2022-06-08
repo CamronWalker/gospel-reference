@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Numbers 15:25"]
+---
+[Numbers 15:25](https://churchofjesuschrist.org/study/scriptures/ot/num/15?lang=eng&id=p25#p25) And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it is ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance:

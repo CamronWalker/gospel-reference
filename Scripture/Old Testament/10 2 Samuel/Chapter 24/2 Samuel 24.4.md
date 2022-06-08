@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Samuel 24:4"]
+---
+[2 Samuel 24:4](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=eng&id=p4#p4) Notwithstanding the king's word prevailed against Joab, and against the captains of the host.  And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.

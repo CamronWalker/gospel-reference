@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Ezekiel 38:20"]
+---
+[Ezekiel 38:20](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng&id=p20#p20) So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that are upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.

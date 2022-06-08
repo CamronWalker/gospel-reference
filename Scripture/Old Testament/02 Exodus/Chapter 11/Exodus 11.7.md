@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Exodus 11:7"]
+---
+[Exodus 11:7](https://churchofjesuschrist.org/study/scriptures/ot/ex/11?lang=eng&id=p7#p7) But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel.

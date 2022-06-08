@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Jeremiah 39:5"]
+---
+[Jeremiah 39:5](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=eng&id=p5#p5) But the Chaldeans' army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.

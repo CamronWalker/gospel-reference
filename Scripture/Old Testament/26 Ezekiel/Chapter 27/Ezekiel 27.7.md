@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Ezekiel 27:7"]
+---
+[Ezekiel 27:7](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=eng&id=p7#p7) Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.

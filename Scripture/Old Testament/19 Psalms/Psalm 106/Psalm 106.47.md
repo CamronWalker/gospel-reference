@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Psalm 106:47"]
+---
+[Psalm 106:47](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=eng&id=p47#p47) Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Nehemiah 1:3"]
+---
+[Nehemiah 1:3](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=eng&id=p3#p3) And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.

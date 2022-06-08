@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["1 Kings 16:31"]
+---
+[1 Kings 16:31](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=eng&id=p31#p31) And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.

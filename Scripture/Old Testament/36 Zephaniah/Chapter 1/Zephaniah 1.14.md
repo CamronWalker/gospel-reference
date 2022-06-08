@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Zephaniah 1:14"]
+---
+[Zephaniah 1:14](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=eng&id=p14#p14) The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.

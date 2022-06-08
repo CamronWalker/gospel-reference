@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Jeremiah 50:27"]
+---
+[Jeremiah 50:27](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=eng&id=p27#p27) Slay all her bullocks; let them go down to the slaughter: woe unto them!  for their day is come, the time of their visitation.

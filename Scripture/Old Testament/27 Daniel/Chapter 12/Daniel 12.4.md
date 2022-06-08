@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Daniel 12:4"]
+---
+[Daniel 12:4](https://churchofjesuschrist.org/study/scriptures/ot/dan/12?lang=eng&id=p4#p4) But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.

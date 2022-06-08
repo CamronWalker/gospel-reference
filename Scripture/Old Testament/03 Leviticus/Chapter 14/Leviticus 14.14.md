@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Leviticus 14:14"]
+---
+[Leviticus 14:14](https://churchofjesuschrist.org/study/scriptures/ot/lev/14?lang=eng&id=p14#p14) And the priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:

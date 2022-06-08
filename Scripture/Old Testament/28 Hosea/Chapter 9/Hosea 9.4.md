@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Hosea 9:4"]
+---
+[Hosea 9:4](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=eng&id=p4#p4) They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.

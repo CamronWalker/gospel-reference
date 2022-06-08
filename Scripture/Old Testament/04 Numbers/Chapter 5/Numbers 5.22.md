@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Numbers 5:22"]
+---
+[Numbers 5:22](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=eng&id=p22#p22) And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen.

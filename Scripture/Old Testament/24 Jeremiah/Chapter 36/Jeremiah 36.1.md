@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["Jeremiah 36:1"]
+---
+[Jeremiah 36:1](https://churchofjesuschrist.org/study/scriptures/ot/jer/36?lang=eng&id=p1#p1) AND it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,

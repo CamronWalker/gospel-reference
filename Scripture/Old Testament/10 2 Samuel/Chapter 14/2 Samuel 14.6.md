@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Samuel 14:6"]
+---
+[2 Samuel 14:6](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=eng&id=p6#p6) And thy handmaid had two sons, and they two strove together in the field, and there was none to part them, but the one smote the other, and slew him.

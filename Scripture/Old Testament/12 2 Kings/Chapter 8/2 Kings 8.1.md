@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/OldT, noGraph]
+aliases: ["2 Kings 8:1"]
+---
+[2 Kings 8:1](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/8?lang=eng&id=p1#p1) THEN spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
