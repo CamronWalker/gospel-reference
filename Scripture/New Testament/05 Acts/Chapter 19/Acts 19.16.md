@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Acts 19:16"]
+---
+[Acts 19:16](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=eng&id=p16#p16) And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.

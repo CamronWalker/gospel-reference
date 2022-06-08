@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Philippians 2:16"]
+---
+[Philippians 2:16](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=eng&id=p16#p16) Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Matthew 13:17"]
+---
+[Matthew 13:17](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng&id=p17#p17) For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.

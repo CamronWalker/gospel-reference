@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["John 13:10"]
+---
+[John 13:10](https://churchofjesuschrist.org/study/scriptures/nt/john/13?lang=eng&id=p10#p10) Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.

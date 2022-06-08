@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Mark 8:33"]
+---
+[Mark 8:33](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=eng&id=p33#p33) But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Acts 28:27"]
+---
+[Acts 28:27](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=eng&id=p27#p27) For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.

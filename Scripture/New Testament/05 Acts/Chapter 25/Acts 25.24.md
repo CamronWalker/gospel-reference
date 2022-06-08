@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Acts 25:24"]
+---
+[Acts 25:24](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=eng&id=p24#p24) And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.

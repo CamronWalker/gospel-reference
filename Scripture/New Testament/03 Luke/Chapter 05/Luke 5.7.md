@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Luke 5:7"]
+---
+[Luke 5:7](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=eng&id=p7#p7) And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.

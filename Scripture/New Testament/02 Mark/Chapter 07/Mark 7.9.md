@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Mark 7:9"]
+---
+[Mark 7:9](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng&id=p9#p9) And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition.

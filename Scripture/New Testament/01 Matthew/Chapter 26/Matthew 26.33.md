@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Matthew 26:33"]
+---
+[Matthew 26:33](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=eng&id=p33#p33) Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended.

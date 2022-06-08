@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Matthew 1:19"]
+---
+[Matthew 1:19](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=eng&id=p19#p19) Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.

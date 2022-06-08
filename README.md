@@ -1,1 +1,2 @@
-# gospel-reference
+# LDS Gospel Reference Library
+I created this reference library of gospel items from churchofjesuschrist.org for use in Obsidian. All content is in .md format and has a reference to it's source via hyperlink. 

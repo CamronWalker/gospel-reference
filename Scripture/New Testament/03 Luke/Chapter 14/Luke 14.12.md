@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/NewT, noGraph]
+aliases: ["Luke 14:12"]
+---
+[Luke 14:12](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12#p12) ¶ Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee.
