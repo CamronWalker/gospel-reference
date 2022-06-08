@@ -1,2 +1,6 @@
-##### 5
-And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth. For I, the Lord God, had not caused it to rain upon the face of the earth. And I, the Lord God, had created all the children of men; and not yet a man to till the ground; for in heaven created I them; and there was not yet flesh upon the earth, neither in the water, neither in the air;
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Moses 3:5"]
+---
+[Moses 3:5](https://churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng&id=p5#p5) And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth. For I, the Lord God, had not caused it to rain upon the face of the earth. And I, the Lord God, had created all the children of men; and not yet a man to till the ground; for in heaven created I them; and there was not yet flesh upon the earth, neither in the water, neither in the air;

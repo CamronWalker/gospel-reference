@@ -1,2 +1,6 @@
-##### 52
-Having removed the earth, I obtained a lever, which I got fixed under the edge of the stone, and with a little exertion raised it up. I looked in, and there indeed did I behold the plates, the Urim and Thummim, and the breastplate, as stated by the messenger. The box in which they lay was formed by laying stones together in some kind of cement. In the bottom of the box were laid two stones crossways of the box, and on these stones lay the plates and the other things with them.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Joseph Smith--History 1:52"]
+---
+[Joseph Smith--History 1:52](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p52#p52) Having removed the earth, I obtained a lever, which I got fixed under the edge of the stone, and with a little exertion raised it up. I looked in, and there indeed did I behold the plates, the Urim and Thummim, and the breastplate, as stated by the messenger. The box in which they lay was formed by laying stones together in some kind of cement. In the bottom of the box were laid two stones crossways of the box, and on these stones lay the plates and the other things with them.

@@ -1,2 +1,6 @@
-##### 74
-Our minds being now enlightened, we began to have the scriptures laid open to our understandings, and the true meaning and intention of their more mysterious passages revealed unto us in a manner which we never could attain to previously, nor ever before had thought of. In the meantime we were forced to keep secret the circumstances of having received the Priesthood and our having been baptized, owing to a spirit of persecution which had already manifested itself in the neighborhood.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Joseph Smith--History 1:74"]
+---
+[Joseph Smith--History 1:74](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p74#p74) Our minds being now enlightened, we began to have the scriptures laid open to our understandings, and the true meaning and intention of their more mysterious passages revealed unto us in a manner which we never could attain to previously, nor ever before had thought of. In the meantime we were forced to keep secret the circumstances of having received the Priesthood and our having been baptized, owing to a spirit of persecution which had already manifested itself in the neighborhood.

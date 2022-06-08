@@ -1,2 +1,6 @@
-##### 58
-Owing to my continuing to assert that I had seen a vision, persecution still followed me, and my wife's father's family were very much opposed to our being married. I was, therefore, under the necessity of taking her elsewhere; so we went and were married at the house of Squire Tarbill, in South Bainbridge, Chenango county, New York. Immediately after my marriage, I left Mr. Stoal's, and went to my father's, and farmed with him that season.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Joseph Smith--History 1:58"]
+---
+[Joseph Smith--History 1:58](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p58#p58) Owing to my continuing to assert that I had seen a vision, persecution still followed me, and my wife's father's family were very much opposed to our being married. I was, therefore, under the necessity of taking her elsewhere; so we went and were married at the house of Squire Tarbill, in South Bainbridge, Chenango county, New York. Immediately after my marriage, I left Mr. Stoal's, and went to my father's, and farmed with him that season.

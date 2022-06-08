@@ -1,2 +1,6 @@
-##### 4
-And the Lord said unto me, by the Urim and Thummim, that Kolob was after the manner of the Lord, according to its times and seasons in the revolutions thereof; that one revolution was a day unto the Lord, after his manner of reckoning, it being one thousand years according to the time appointed unto that whereon thou standest. This is the reckoning of the Lord's time, according to the reckoning of Kolob.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Abraham 3:4"]
+---
+[Abraham 3:4](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p4#p4) And the Lord said unto me, by the Urim and Thummim, that Kolob was after the manner of the Lord, according to its times and seasons in the revolutions thereof; that one revolution was a day unto the Lord, after his manner of reckoning, it being one thousand years according to the time appointed unto that whereon thou standest. This is the reckoning of the Lord's time, according to the reckoning of Kolob.

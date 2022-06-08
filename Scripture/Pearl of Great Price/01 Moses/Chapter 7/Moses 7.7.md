@@ -1,2 +1,6 @@
-##### 7
-And the Lord said unto me: Prophesy; and I prophesied, saying: Behold the people of Canaan, which are numerous, shall go forth in battle array against the people of Shum, and shall slay them that they shall utterly be destroyed; and the people of Canaan shall divide themselves in the land, and the land shall be barren and unfruitful, and none other people shall dwell there but the people of Canaan;
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Moses 7:7"]
+---
+[Moses 7:7](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p7#p7) And the Lord said unto me: Prophesy; and I prophesied, saying: Behold the people of Canaan, which are numerous, shall go forth in battle array against the people of Shum, and shall slay them that they shall utterly be destroyed; and the people of Canaan shall divide themselves in the land, and the land shall be barren and unfruitful, and none other people shall dwell there but the people of Canaan;

@@ -1,2 +1,6 @@
-##### 11
-And I, God, said: Let the earth bring forth grass, the herb yielding seed, the fruit tree yielding fruit, after his kind, and the tree yielding fruit, whose seed should be in itself upon the earth, and it was so even as I spake.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Moses 2:11"]
+---
+[Moses 2:11](https://churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=eng&id=p11#p11) And I, God, said: Let the earth bring forth grass, the herb yielding seed, the fruit tree yielding fruit, after his kind, and the tree yielding fruit, whose seed should be in itself upon the earth, and it was so even as I spake.

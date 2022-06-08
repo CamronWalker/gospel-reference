@@ -1,2 +1,6 @@
-##### 21
-And also, after that they had heard him, they came up before him, saying: Behold, we are the sons of God; have we not taken unto ourselves the daughters of men? And are we not eating and drinking, and marrying and giving in marriage? And our wives bear unto us children, and the same are mighty men, which are like unto men of old, men of great renown. And they hearkened not unto the words of Noah.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Moses 8:21"]
+---
+[Moses 8:21](https://churchofjesuschrist.org/study/scriptures/pgp/moses/8?lang=eng&id=p21#p21) And also, after that they had heard him, they came up before him, saying: Behold, we are the sons of God; have we not taken unto ourselves the daughters of men? And are we not eating and drinking, and marrying and giving in marriage? And our wives bear unto us children, and the same are mighty men, which are like unto men of old, men of great renown. And they hearkened not unto the words of Noah.

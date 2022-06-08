@@ -1,2 +1,6 @@
-##### 34
-He said there was a book deposited, written upon gold plates, giving an account of the former inhabitants of this continent, and the source from whence they sprang. He also said that the fulness of the everlasting Gospel was contained in it, as delivered by the Savior to the ancient inhabitants;
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Joseph Smith--History 1:34"]
+---
+[Joseph Smith--History 1:34](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p34#p34) He said there was a book deposited, written upon gold plates, giving an account of the former inhabitants of this continent, and the source from whence they sprang. He also said that the fulness of the everlasting Gospel was contained in it, as delivered by the Savior to the ancient inhabitants;

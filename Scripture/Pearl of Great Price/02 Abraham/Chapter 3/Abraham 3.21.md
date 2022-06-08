@@ -1,2 +1,6 @@
-##### 21
-I dwell in the midst of them all; I now, therefore, have come down unto thee to declare unto thee the works which my hands have made, wherein my wisdom excelleth them all, for I rule in the heavens above, and in the earth beneath, in all wisdom and prudence, over all the intelligences thine eyes have seen from the beginning; I came down in the beginning in the midst of all the intelligences thou hast seen.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Abraham 3:21"]
+---
+[Abraham 3:21](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p21#p21) I dwell in the midst of them all; I now, therefore, have come down unto thee to declare unto thee the works which my hands have made, wherein my wisdom excelleth them all, for I rule in the heavens above, and in the earth beneath, in all wisdom and prudence, over all the intelligences thine eyes have seen from the beginning; I came down in the beginning in the midst of all the intelligences thou hast seen.

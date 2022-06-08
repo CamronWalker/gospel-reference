@@ -1,2 +1,6 @@
-##### 11
-And I will bless them that bless thee, and curse them that curse thee; and in thee (that is, in thy Priesthood) and in thy seed (that is, thy Priesthood), for I give unto thee a promise that this right shall continue in thee, and in thy seed after thee (that is to say, the literal seed, or the seed of the body) shall all the families of the earth be blessed, even with the blessings of the Gospel, which are the blessings of salvation, even of life eternal.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Abraham 2:11"]
+---
+[Abraham 2:11](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p11#p11) And I will bless them that bless thee, and curse them that curse thee; and in thee (that is, in thy Priesthood) and in thy seed (that is, thy Priesthood), for I give unto thee a promise that this right shall continue in thee, and in thy seed after thee (that is to say, the literal seed, or the seed of the body) shall all the families of the earth be blessed, even with the blessings of the Gospel, which are the blessings of salvation, even of life eternal.

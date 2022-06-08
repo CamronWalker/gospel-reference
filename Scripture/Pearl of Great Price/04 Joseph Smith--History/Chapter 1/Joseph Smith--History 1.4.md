@@ -1,2 +1,6 @@
-##### 4
-His family consisting of eleven souls, namely, my father, Joseph Smith; my mother, Lucy Smith (whose name, previous to her marriage, was Mack, daughter of Solomon Mack); my brothers, Alvin (who died November 19th, 1823, in the 26th year of his age), Hyrum, myself, Samuel Harrison, William, Don Carlos; and my sisters, Sophronia, Catherine, and Lucy.
+---
+publish: true
+tags: [Scripture/PoGP, noGraph]
+aliases: ["Joseph Smith--History 1:4"]
+---
+[Joseph Smith--History 1:4](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p4#p4) His family consisting of eleven souls, namely, my father, Joseph Smith; my mother, Lucy Smith (whose name, previous to her marriage, was Mack, daughter of Solomon Mack); my brothers, Alvin (who died November 19th, 1823, in the 26th year of his age), Hyrum, myself, Samuel Harrison, William, Don Carlos; and my sisters, Sophronia, Catherine, and Lucy.
