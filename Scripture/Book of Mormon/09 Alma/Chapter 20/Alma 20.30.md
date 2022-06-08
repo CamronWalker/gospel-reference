@@ -1,0 +1,10 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 20:30"]
+---
+[Alma 20:30](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=eng&id=p30#p30) And, as it happened, it was their lot to have fallen into the hands of a more hardened and a more stiffnecked people; therefore they would not hearken unto their words, and they had cast them out, and had smitten them, and had driven them from house to house, and from place to place, even until they had arrived in the land of Middoni; and there they were taken and cast into prison, and bound with strong cords, and kept in prison for many days, and were delivered by Lamoni and Ammon.
+
+
+
+

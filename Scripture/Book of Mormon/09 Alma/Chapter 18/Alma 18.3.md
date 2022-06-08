@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 18:3"]
+---
+[Alma 18:3](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=eng&id=p3#p3) And they answered the king, and said: Whether he be the Great Spirit or a man, we know not; but this much we do know, that he cannot be slain by the enemies of the king; neither can they scatter the king's flocks when he is with us, because of his expertness and great strength; therefore, we know that he is a friend to the king. And now, O king, we do not believe that a man has such great power, for we know he cannot be slain.

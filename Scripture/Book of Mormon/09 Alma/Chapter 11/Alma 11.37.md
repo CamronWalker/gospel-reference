@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 11:37"]
+---
+[Alma 11:37](https://churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37) And I say unto you again that he cannot save them in their sins; for I cannot deny his word, and he hath said that no unclean thing can inherit the kingdom of heaven; therefore, how can ye be saved, except ye inherit the kingdom of heaven? Therefore, ye cannot be saved in your sins.

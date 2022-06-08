@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 51:21"]
+---
+[Alma 51:21](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=eng&id=p21#p21) And thus Moroni put an end to those king-men, that there were not any known by the appellation of king-men; and thus he put an end to the stubbornness and the pride of those people who professed the blood of nobility; but they were brought down to humble themselves like unto their brethren, and to fight valiantly for their freedom from bondage.

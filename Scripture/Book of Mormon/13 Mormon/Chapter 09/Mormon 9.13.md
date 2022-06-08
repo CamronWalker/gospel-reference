@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mormon 9:13"]
+---
+[Mormon 9:13](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p13#p13) And because of the redemption of man, which came by Jesus Christ, they are brought back into the presence of the Lord; yea, this is wherein all men are redeemed, because the death of Christ bringeth to pass the resurrection, which bringeth to pass a redemption from an endless sleep, from which sleep all men shall be awakened by the power of God when the trump shall sound; and they shall come forth, both small and great, and all shall stand before his bar, being redeemed and loosed from this eternal band of death, which death is a temporal death.

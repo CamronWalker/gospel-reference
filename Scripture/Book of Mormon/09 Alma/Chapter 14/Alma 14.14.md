@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 14:14"]
+---
+[Alma 14:14](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng&id=p14#p14) Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?

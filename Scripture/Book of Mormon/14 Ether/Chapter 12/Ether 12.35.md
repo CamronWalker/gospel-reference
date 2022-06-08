@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 12:35"]
+---
+[Ether 12:35](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p35#p35) Wherefore, I know by this thing which thou hast said, that if the Gentiles have not charity, because of our weakness, that thou wilt prove them, and take away their talent, yea, even that which they have received, and give unto them who shall have more abundantly.

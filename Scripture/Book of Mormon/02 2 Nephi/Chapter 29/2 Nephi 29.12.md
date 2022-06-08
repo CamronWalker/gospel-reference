@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["2 Nephi 29:12"]
+---
+[2 Nephi 29:12](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/29?lang=eng&id=p12#p12) For behold, I shall speak unto the Jews and they shall write it; and I shall also speak unto the Nephites and they shall write it; and I shall also speak unto the other tribes of the house of Israel, which I have led away, and they shall write it; and I shall also speak unto all nations of the earth and they shall write it.

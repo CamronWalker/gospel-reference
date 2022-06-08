@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["3 Nephi 13:25"]
+---
+[3 Nephi 13:25](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p25#p25) And now it came to pass that when Jesus had spoken these words he looked upon the twelve whom he had chosen, and said unto them: Remember the words which I have spoken. For behold, ye are they whom I have chosen to minister unto this people. Therefore I say unto you, take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?

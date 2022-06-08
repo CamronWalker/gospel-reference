@@ -1,0 +1,10 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["2 Nephi 32:9"]
+---
+[2 Nephi 32:9](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng&id=p9#p9) But behold, I say unto you that ye must pray always, and not faint; that ye must not perform any thing unto the Lord save in the first place ye shall pray unto the Father in the name of Christ, that he will consecrate thy performance unto thee, that thy performance may be for the welfare of thy soul.
+
+
+
+

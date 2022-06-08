@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 62:3"]
+---
+[Alma 62:3](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=eng&id=p3#p3) And it came to pass that Moroni took a small number of men, according to the desire of Pahoran, and gave Lehi and Teancum command over the remainder of his army, and took his march towards the land of Gideon.

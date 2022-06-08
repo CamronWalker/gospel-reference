@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["3 Nephi 5:20"]
+---
+[3 Nephi 5:20](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=eng&id=p20#p20) I am Mormon, and a pure descendant of Lehi. I have reason to bless my God and my Savior Jesus Christ, that he brought our fathers out of the land of Jerusalem, (and no one knew it save it were himself and those whom he brought out of that land) and that he hath given me and my people so much knowledge unto the salvation of our souls.

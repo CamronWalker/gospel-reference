@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 29:11"]
+---
+[Alma 29:11](https://churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=eng&id=p11#p11) Yea, and I also remember the captivity of my fathers; for I surely do know that the Lord did deliver them out of bondage, and by this did establish his church; yea, the Lord God, the God of Abraham, the God of Isaac, and the God of Jacob, did deliver them out of bondage.

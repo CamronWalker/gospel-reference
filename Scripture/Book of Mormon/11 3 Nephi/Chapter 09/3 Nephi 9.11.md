@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["3 Nephi 9:11"]
+---
+[3 Nephi 9:11](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p11#p11) And because they did cast them all out, that there were none righteous among them, I did send down fire and destroy them, that their wickedness and abominations might be hid from before my face, that the blood of the prophets and the saints whom I sent among them might not cry unto me from the ground against them.

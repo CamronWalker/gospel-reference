@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 5:7"]
+---
+[Alma 5:7](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p7#p7) Behold, he changed their hearts; yea, he awakened them out of a deep sleep, and they awoke unto God. Behold, they were in the midst of darkness; nevertheless, their souls were illuminated by the light of the everlasting word; yea, they were encircled about by the bands of death, and the chains of hell, and an everlasting destruction did await them.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["1 Nephi 7:16"]
+---
+[1 Nephi 7:16](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=p16#p16) And it came to pass that when I, Nephi, had spoken these words unto my brethren, they were angry with me. And it came to pass that they did lay their hands upon me, for behold, they were exceedingly wroth, and they did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness to be devoured by wild beasts.

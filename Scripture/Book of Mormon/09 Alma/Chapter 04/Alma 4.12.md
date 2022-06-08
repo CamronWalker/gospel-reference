@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 4:12"]
+---
+[Alma 4:12](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=eng&id=p12#p12) Yea, he saw great inequality among the people, some lifting themselves up with their pride, despising others, turning their backs upon the needy and the naked and those who were hungry, and those who were athirst, and those who were sick and afflicted.

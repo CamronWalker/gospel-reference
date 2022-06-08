@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 15:2"]
+---
+[Ether 15:2](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng&id=p2#p2) He saw that there had been slain by the sword already nearly two millions of his people, and he began to sorrow in his heart; yea, there had been slain two millions of mighty men, and also their wives and their children.

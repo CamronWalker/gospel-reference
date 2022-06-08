@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 29:7"]
+---
+[Mosiah 29:7](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng&id=p7#p7) And now if there should be another appointed in his stead, behold I fear there would rise contentions among you. And who knoweth but what my son, to whom the kingdom doth belong, should turn to be angry and draw away a part of this people after him, which would cause wars and contentions among you, which would be the cause of shedding much blood and perverting the way of the Lord, yea, and destroy the souls of many people.

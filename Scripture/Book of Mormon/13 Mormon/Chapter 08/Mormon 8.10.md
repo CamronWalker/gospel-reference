@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mormon 8:10"]
+---
+[Mormon 8:10](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng&id=p10#p10) And there are none that do know the true God save it be the disciples of Jesus, who did tarry in the land until the wickedness of the people was so great that the Lord would not suffer them to remain with the people; and whether they be upon the face of the land no man knoweth.

@@ -1,0 +1,10 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Jacob 7:27"]
+---
+[Jacob 7:27](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=eng&id=p27#p27) And I, Jacob, saw that I must soon go down to my grave; wherefore, I said unto my son Enos: Take these plates. And I told him the things which my brother Nephi had commanded me, and he promised obedience unto the commands. And I make an end of my writing upon these plates, which writing has been small; and to the reader I bid farewell, hoping that many of my brethren may read my words. Brethren, adieu.
+
+
+
+

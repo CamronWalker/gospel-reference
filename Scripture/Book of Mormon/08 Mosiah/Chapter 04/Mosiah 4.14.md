@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 4:14"]
+---
+[Mosiah 4:14](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p14#p14) And ye will not suffer your children that they go hungry, or naked; neither will ye suffer that they transgress the laws of God, and fight and quarrel one with another, and serve the devil, who is the master of sin, or who is the evil spirit which hath been spoken of by our fathers, he being an enemy to all righteousness.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["1 Nephi 16:25"]
+---
+[1 Nephi 16:25](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng&id=p25#p25) And it came to pass that the voice of the Lord came unto my father; and he was truly chastened because of his murmuring against the Lord, insomuch that he was brought down into the depths of sorrow.

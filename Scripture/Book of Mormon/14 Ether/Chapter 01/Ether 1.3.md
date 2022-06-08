@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 1:3"]
+---
+[Ether 1:3](https://churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng&id=p3#p3) And as I suppose that the first part of this record, which speaks concerning the creation of the world, and also of Adam, and an account from that time even to the great tower, and whatsoever things transpired among the children of men until that time, is had among the Jews--

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 23:25"]
+---
+[Mosiah 23:25](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=eng&id=p25#p25) For behold, it came to pass that while they were in the land of Helam, yea, in the city of Helam, while tilling the land round about, behold an army of the Lamanites was in the borders of the land.

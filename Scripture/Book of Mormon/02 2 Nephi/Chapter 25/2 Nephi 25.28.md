@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["2 Nephi 25:28"]
+---
+[2 Nephi 25:28](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p28#p28) And now behold, my people, ye are a stiffnecked people; wherefore, I have spoken plainly unto you, that ye cannot misunderstand. And the words which I have spoken shall stand as a testimony against you; for they are sufficient to teach any man the right way; for the right way is to believe in Christ and deny him not; for by denying him ye also deny the prophets and the law.

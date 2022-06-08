@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 15:19"]
+---
+[Ether 15:19](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng&id=p19#p19) But behold, the Spirit of the Lord had ceased striving with them, and Satan had full power over the hearts of the people; for they were given up unto the hardness of their hearts, and the blindness of their minds that they might be destroyed; wherefore they went again to battle.

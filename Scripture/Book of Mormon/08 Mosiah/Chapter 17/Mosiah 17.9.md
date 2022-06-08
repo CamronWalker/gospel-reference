@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 17:9"]
+---
+[Mosiah 17:9](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=eng&id=p9#p9) Now Abinadi said unto him: I say unto you, I will not recall the words which I have spoken unto you concerning this people, for they are true; and that ye may know of their surety I have suffered myself that I have fallen into your hands.

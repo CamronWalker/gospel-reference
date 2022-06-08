@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mormon 8:40"]
+---
+[Mormon 8:40](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng&id=p40#p40) Yea, why do ye build up your secret abominations to get gain, and cause that widows should mourn before the Lord, and also orphans to mourn before the Lord, and also the blood of their fathers and their husbands to cry unto the Lord from the ground, for vengeance upon your heads?

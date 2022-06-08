@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 28:7"]
+---
+[Alma 28:7](https://churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=eng&id=p7#p7) And thus endeth the fifteenth year of the reign of the judges over the people of Nephi;

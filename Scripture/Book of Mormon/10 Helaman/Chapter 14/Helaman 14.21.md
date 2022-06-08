@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Helaman 14:21"]
+---
+[Helaman 14:21](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=eng&id=p21#p21) Yea, at the time that he shall yield up the ghost there shall be thunderings and lightnings for the space of many hours, and the earth shall shake and tremble; and the rocks which are upon the face of this earth, which are both above the earth and beneath, which ye know at this time are solid, or the more part of it is one solid mass, shall be broken up;

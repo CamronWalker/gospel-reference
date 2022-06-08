@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["1 Nephi 14:23"]
+---
+[1 Nephi 14:23](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p23#p23) Wherefore, the things which he shall write are just and true; and behold they are written in the book which thou beheld proceeding out of the mouth of the Jew; and at the time they proceeded out of the mouth of the Jew, or, at the time the book proceeded out of the mouth of the Jew, the things which were written were plain and pure, and most precious and easy to the understanding of all men.

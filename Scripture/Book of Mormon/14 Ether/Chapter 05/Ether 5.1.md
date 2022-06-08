@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 5:1"]
+---
+[Ether 5:1](https://churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=eng&id=p1#p1) And now I, Moroni, have written the words which were commanded me, according to my memory; and I have told you the things which I have sealed up; therefore touch them not in order that ye may translate; for that thing is forbidden you, except by and by it shall be wisdom in God.

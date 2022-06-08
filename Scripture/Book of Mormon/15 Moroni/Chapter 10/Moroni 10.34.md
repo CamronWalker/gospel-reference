@@ -1,0 +1,10 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Moroni 10:34"]
+---
+[Moroni 10:34](https://churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p34#p34) And now I bid unto all, farewell. I soon go to rest in the paradise of God, until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead. Amen.
+
+
+
+

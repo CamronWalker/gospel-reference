@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 4:2"]
+---
+[Mosiah 4:2](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p2#p2) And they had viewed themselves in their own carnal state, even less than the dust of the earth. And they all cried aloud with one voice, saying: O have mercy, and apply the atoning blood of Christ that we may receive forgiveness of our sins, and our hearts may be purified; for we believe in Jesus Christ, the Son of God, who created heaven and earth, and all things; who shall come down among the children of men.

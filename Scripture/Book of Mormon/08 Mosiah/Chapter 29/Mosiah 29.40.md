@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 29:40"]
+---
+[Mosiah 29:40](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng&id=p40#p40) And they did wax strong in love towards Mosiah; yea, they did esteem him more than any other man; for they did not look upon him as a tyrant who was seeking for gain, yea, for that lucre which doth corrupt the soul; for he had not exacted riches of them, neither had he delighted in the shedding of blood; but he had established peace in the land, and he had granted unto his people that they should be delivered from all manner of bondage; therefore they did esteem him, yea, exceedingly, beyond measure.

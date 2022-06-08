@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 32:5"]
+---
+[Alma 32:5](https://churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p5#p5) And they came unto Alma; and the one who was the foremost among them said unto him: Behold, what shall these my brethren do, for they are despised of all men because of their poverty, yea, and more especially by our priests; for they have cast us out of our synagogues which we have labored abundantly to build with our own hands; and they have cast us out because of our exceeding poverty; and we have no place to worship our God; and behold, what shall we do?

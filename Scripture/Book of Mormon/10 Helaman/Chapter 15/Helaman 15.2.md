@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Helaman 15:2"]
+---
+[Helaman 15:2](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=eng&id=p2#p2) Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck; for ye shall attempt to flee and there shall be no place for refuge; yea, and wo unto them which are with child, for they shall be heavy and cannot flee; therefore, they shall be trodden down and shall be left to perish.

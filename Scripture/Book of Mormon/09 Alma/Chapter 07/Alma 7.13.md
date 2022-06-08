@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 7:13"]
+---
+[Alma 7:13](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p13#p13) Now the Spirit knoweth all things; nevertheless the Son of God suffereth according to the flesh that he might take upon him the sins of his people, that he might blot out their transgressions according to the power of his deliverance; and now behold, this is the testimony which is in me.

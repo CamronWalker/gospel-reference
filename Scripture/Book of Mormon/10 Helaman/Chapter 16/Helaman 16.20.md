@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Helaman 16:20"]
+---
+[Helaman 16:20](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=eng&id=p20#p20) But behold, we know that this is a wicked tradition, which has been handed down unto us by our fathers, to cause us that we should believe in some great and marvelous thing which should come to pass, but not among us, but in a land which is far distant, a land which we know not; therefore they can keep us in ignorance, for we cannot witness with our own eyes that they are true.

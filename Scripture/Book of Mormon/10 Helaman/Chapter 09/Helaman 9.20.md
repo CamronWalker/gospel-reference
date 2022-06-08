@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Helaman 9:20"]
+---
+[Helaman 9:20](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=eng&id=p20#p20) Saying unto him: Thou art confederate; who is this man that hath done this murder? Now tell us, and acknowledge thy fault; saying, Behold here is money; and also we will grant unto thee thy life if thou wilt tell us, and acknowledge the agreement which thou hast made with him.

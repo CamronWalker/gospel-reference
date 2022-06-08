@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mormon 3:3"]
+---
+[Mormon 3:3](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=eng&id=p3#p3) And I did cry unto this people, but it was in vain; and they did not realize that it was the Lord that had spared them, and granted unto them a chance for repentance. And behold they did harden their hearts against the Lord their God.

@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Ether 7:16"]
+---
+[Ether 7:16](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=eng&id=p16#p16) And he gave battle unto Shule, the king, in which he did obtain the land of their first inheritance; and he became a king over that part of the land.

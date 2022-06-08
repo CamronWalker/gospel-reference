@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mormon 2:26"]
+---
+[Mormon 2:26](https://churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=eng&id=p26#p26) And it came to pass that when they had fled we did pursue them with our armies, and did meet them again, and did beat them; nevertheless the strength of the Lord was not with us; yea, we were left to ourselves, that the Spirit of the Lord did not abide in us; therefore we had become weak like unto our brethren.

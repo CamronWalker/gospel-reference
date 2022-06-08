@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["1 Nephi 13:12"]
+---
+[1 Nephi 13:12](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng&id=p12#p12) And I looked and beheld a man among the Gentiles, who was separated from the seed of my brethren by the many waters; and I beheld the Spirit of God, that it came down and wrought upon the man; and he went forth upon the many waters, even unto the seed of my brethren, who were in the promised land.

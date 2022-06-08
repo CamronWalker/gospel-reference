@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["3 Nephi 8:12"]
+---
+[3 Nephi 8:12](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p12#p12) But behold, there was a more great and terrible destruction in the land northward; for behold, the whole face of the land was changed, because of the tempest and the whirlwinds, and the thunderings and the lightnings, and the exceedingly great quaking of the whole earth;

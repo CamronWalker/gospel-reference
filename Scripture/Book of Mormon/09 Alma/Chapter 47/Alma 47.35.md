@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 47:35"]
+---
+[Alma 47:35](https://churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=eng&id=p35#p35) And it came to pass that Amalickiah sought the favor of the queen, and took her unto him to wife; and thus by his fraud, and by the assistance of his cunning servants, he obtained the kingdom; yea, he was acknowledged king throughout all the land, among all the people of the Lamanites, who were composed of the Lamanites and the Lemuelites and the Ishmaelites, and all the dissenters of the Nephites, from the reign of Nephi down to the present time.

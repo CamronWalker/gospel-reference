@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 43:35"]
+---
+[Alma 43:35](https://churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng&id=p35#p35) And as the Lamanites had passed the hill Riplah, and came into the valley, and began to cross the river Sidon, the army which was concealed on the south of the hill, which was led by a man whose name was Lehi, and he led his army forth and encircled the Lamanites about on the east in their rear.

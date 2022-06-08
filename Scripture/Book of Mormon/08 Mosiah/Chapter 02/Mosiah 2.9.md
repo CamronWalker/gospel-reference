@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Mosiah 2:9"]
+---
+[Mosiah 2:9](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p9#p9) And these are the words which he spake and caused to be written, saying: My brethren, all ye that have assembled yourselves together, you that can hear my words which I shall speak unto you this day; for I have not commanded you to come up hither to trifle with the words which I shall speak, but that you should hearken unto me, and open your ears that ye may hear, and your hearts that ye may understand, and your minds that the mysteries of God may be unfolded to your view.

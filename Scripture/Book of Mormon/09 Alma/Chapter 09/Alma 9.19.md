@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 9:19"]
+---
+[Alma 9:19](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=eng&id=p19#p19) For he will not suffer you that ye shall live in your iniquities, to destroy his people. I say unto you, Nay; he would rather suffer that the Lamanites might destroy all his people who are called the people of Nephi, if it were possible that they could fall into sins and transgressions, after having had so much light and so much knowledge given unto them of the Lord their God;

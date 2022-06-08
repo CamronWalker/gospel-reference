@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["1 Nephi 7:19"]
+---
+[1 Nephi 7:19](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=p19#p19) And it came to pass that they were angry with me again, and sought to lay hands upon me; but behold, one of the daughters of Ishmael, yea, and also her mother, and one of the sons of Ishmael, did plead with my brethren, insomuch that they did soften their hearts; and they did cease striving to take away my life.

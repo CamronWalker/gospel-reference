@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 35:8"]
+---
+[Alma 35:8](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=eng&id=p8#p8) Now the people of the Zoramites were angry with the people of Ammon who were in Jershon, and the chief ruler of the Zoramites, being a very wicked man, sent over unto the people of Ammon desiring them that they should cast out of their land all those who came over from them into their land.

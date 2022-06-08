@@ -1,0 +1,6 @@
+---
+publish: true
+tags: [Scripture/BoM, noGraph]
+aliases: ["Alma 45:9"]
+---
+[Alma 45:9](https://churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=eng&id=p9#p9) But behold, I have somewhat to prophesy unto thee; but what I prophesy unto thee ye shall not make known; yea, what I prophesy unto thee shall not be made known, even until the prophecy is fulfilled; therefore write the words which I shall say.
