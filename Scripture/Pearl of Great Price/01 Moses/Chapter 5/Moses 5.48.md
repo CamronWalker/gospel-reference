@@ -1,0 +1,2 @@
+##### 48
+If Cain shall be avenged sevenfold, truly Lamech shall be seventy and seven fold;

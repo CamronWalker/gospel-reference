@@ -1,0 +1,2 @@
+##### 39
+And That which I have chosen hath pled before my face. Wherefore, he suffereth for their sins; inasmuch as they will repent in the day that my Chosen shall return unto me, and until that day they shall be in torment;

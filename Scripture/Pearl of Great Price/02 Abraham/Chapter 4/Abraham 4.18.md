@@ -1,0 +1,2 @@
+##### 18
+And the Gods watched those things which they had ordered until they obeyed.

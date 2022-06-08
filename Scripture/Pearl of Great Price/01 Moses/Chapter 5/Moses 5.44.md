@@ -1,0 +1,2 @@
+##### 44
+And Lamech took unto himself two wives; the name of one being Adah, and the name of the other, Zillah.

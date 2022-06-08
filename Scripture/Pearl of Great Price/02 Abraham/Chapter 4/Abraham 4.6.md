@@ -1,0 +1,2 @@
+##### 6
+And the Gods also said: Let there be an expanse in the midst of the waters, and it shall divide the waters from the waters.

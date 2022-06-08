@@ -1,0 +1,2 @@
+##### 16
+And it came to pass that Noah prophesied, and taught the things of God, even as it was in the beginning.

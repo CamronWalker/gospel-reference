@@ -1,0 +1,2 @@
+##### 1
+AND I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees;

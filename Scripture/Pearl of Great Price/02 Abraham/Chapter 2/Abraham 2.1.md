@@ -1,0 +1,2 @@
+##### 1
+NOW the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.

@@ -1,0 +1,2 @@
+##### 15
+And the Lord said unto me: Abraham, I show these things unto thee before ye go into Egypt, that ye may declare all these words.

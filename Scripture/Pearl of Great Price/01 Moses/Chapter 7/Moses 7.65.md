@@ -1,0 +1,2 @@
+##### 65
+And it came to pass that Enoch saw the day of the coming of the Son of Man, in the last days, to dwell on the earth in righteousness for the space of a thousand years;

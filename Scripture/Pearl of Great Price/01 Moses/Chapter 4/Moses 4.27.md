@@ -1,0 +1,2 @@
+##### 27
+Unto Adam, and also unto his wife, did I, the Lord God, make coats of skins, and clothed them.

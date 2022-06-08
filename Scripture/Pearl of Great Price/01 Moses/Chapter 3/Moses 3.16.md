@@ -1,0 +1,2 @@
+##### 16
+And I, the Lord God, commanded the man, saying: Of every tree of the garden thou mayest freely eat,

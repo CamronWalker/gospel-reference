@@ -1,0 +1,2 @@
+##### 12
+And the gold of that land was good, and there was bdellium and the onyx stone.

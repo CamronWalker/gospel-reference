@@ -1,0 +1,6 @@
+##### 28
+And the second was angry, and kept not his first estate; and, at that day, many followed after him.
+
+
+
+

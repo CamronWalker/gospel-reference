@@ -1,0 +1,2 @@
+##### 12
+And it came to pass that Enoch continued to call upon all the people, save it were the people of Canaan, to repent;

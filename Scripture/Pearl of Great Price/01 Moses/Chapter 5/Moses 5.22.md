@@ -1,0 +1,2 @@
+##### 22
+And the Lord said unto Cain: Why art thou wroth? Why is thy countenance fallen?

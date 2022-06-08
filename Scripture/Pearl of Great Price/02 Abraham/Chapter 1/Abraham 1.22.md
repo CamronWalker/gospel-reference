@@ -1,0 +1,2 @@
+##### 22
+From this descent sprang all the Egyptians, and thus the blood of the Canaanites was preserved in the land.

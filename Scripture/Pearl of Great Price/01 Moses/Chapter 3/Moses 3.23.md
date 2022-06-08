@@ -1,0 +1,2 @@
+##### 23
+And Adam said: This I know now is bone of my bones, and flesh of my flesh; she shall be called Woman, because she was taken out of man.

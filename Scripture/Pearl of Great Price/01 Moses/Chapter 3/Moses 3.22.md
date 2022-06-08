@@ -1,0 +1,2 @@
+##### 22
+And the rib which I, the Lord God, had taken from man, made I a woman, and brought her unto the man.

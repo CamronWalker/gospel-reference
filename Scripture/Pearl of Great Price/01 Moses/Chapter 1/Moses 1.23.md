@@ -1,0 +1,2 @@
+##### 23
+And now of this thing Moses bore record; but because of wickedness it is not had among the children of men.

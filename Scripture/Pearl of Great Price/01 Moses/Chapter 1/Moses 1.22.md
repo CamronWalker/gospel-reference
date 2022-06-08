@@ -1,0 +1,2 @@
+##### 22
+And it came to pass that Satan cried with a loud voice, with weeping, and wailing, and gnashing of teeth; and he departed hence, even from the presence of Moses, that he beheld him not.

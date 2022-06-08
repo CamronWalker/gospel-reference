@@ -1,0 +1,2 @@
+##### 28
+But I shall endeavor, hereafter, to delineate the chronology running back from myself to the beginning of the creation, for the records have come into my hands, which I hold unto this present time.

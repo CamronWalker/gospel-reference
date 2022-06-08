@@ -1,0 +1,2 @@
+##### 3
+Now the Lord had said unto me: Abraham, get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will show thee.

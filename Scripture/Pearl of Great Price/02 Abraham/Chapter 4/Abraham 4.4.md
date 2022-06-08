@@ -1,0 +1,2 @@
+##### 4
+And they (the Gods) comprehended the light, for it was bright; and they divided the light, or caused it to be divided, from the darkness.

@@ -1,0 +1,2 @@
+##### 58
+And again Enoch wept and cried unto the Lord, saying: When shall the earth rest?

@@ -1,0 +1,2 @@
+##### 21
+And I, the Lord God, caused a deep sleep to fall upon Adam; and he slept, and I took one of his ribs and closed up the flesh in the stead thereof;

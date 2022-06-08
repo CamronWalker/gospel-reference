@@ -1,0 +1,2 @@
+##### 26
+And Adam called his wife's name Eve, because she was the mother of all living; for thus have I, the Lord God, called the first of all women, which are many.

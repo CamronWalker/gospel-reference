@@ -1,0 +1,2 @@
+##### 30
+And Satan sware unto Cain that he would do according to his commands. And all these things were done in secret.

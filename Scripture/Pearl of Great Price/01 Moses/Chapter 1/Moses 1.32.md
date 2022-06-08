@@ -1,0 +1,2 @@
+##### 32
+And by the word of my power, have I created them, which is mine Only Begotten Son, who is full of grace and truth.

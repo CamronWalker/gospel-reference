@@ -1,0 +1,2 @@
+##### 54
+Wherefore Lamech was despised, and cast out, and came not among the sons of men, lest he should die.

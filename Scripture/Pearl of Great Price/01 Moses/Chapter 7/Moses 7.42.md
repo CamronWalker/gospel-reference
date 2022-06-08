@@ -1,0 +1,2 @@
+##### 42
+And Enoch also saw Noah, and his family; that the posterity of all the sons of Noah should be saved with a temporal salvation;

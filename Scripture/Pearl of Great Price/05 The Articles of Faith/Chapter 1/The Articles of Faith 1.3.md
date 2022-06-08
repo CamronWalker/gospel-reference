@@ -1,0 +1,2 @@
+##### 3
+We believe that through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel.

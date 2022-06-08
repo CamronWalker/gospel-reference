@@ -1,0 +1,2 @@
+##### 46
+For a book of remembrance we have written among us, according to the pattern given by the finger of God; and it is given in our own language.

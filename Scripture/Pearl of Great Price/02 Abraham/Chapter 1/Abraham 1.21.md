@@ -1,0 +1,2 @@
+##### 21
+Now this king of Egypt was a descendant from the loins of Ham, and was a partaker of the blood of the Canaanites by birth.

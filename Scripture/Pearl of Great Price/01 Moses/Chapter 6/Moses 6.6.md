@@ -1,0 +1,2 @@
+##### 6
+And by them their children were taught to read and write, having a language which was pure and undefiled.

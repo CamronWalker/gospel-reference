@@ -1,0 +1,2 @@
+##### 10
+Even the thank-offering of a child did the priest of Pharaoh offer upon the altar which stood by the hill called Potiphar's Hill, at the head of the plain of Olishem.

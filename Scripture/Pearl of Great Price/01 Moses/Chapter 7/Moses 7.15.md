@@ -1,0 +1,2 @@
+##### 15
+And the giants of the land, also, stood afar off; and there went forth a curse upon all people that fought against God;

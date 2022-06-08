@@ -1,0 +1,2 @@
+##### 24
+And the Gods prepared the earth to bring forth the living creature after his kind, cattle and creeping things, and beasts of the earth after their kind; and it was so, as they had said.

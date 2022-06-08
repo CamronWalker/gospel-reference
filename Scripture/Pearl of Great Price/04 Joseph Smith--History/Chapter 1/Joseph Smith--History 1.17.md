@@ -1,0 +1,2 @@
+##### 17
+It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other--This is My Beloved Son. Hear Him!

@@ -1,0 +1,2 @@
+##### 7
+We believe in the gift of tongues, prophecy, revelation, visions, healing, interpretation of tongues, and so forth.

@@ -1,0 +1,2 @@
+##### 17
+And I, the Lord God, said unto Adam: Who told thee thou wast naked? Hast thou eaten of the tree whereof I commanded thee that thou shouldst not eat, if so thou shouldst surely die?

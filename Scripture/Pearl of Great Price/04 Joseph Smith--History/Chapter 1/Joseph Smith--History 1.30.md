@@ -1,0 +1,2 @@
+##### 30
+While I was thus in the act of calling upon God, I discovered a light appearing in my room, which continued to increase until the room was lighter than at noonday, when immediately a personage appeared at my bedside, standing in the air, for his feet did not touch the floor.

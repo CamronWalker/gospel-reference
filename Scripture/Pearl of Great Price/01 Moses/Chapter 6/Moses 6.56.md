@@ -1,0 +1,2 @@
+##### 56
+And it is given unto them to know good from evil; wherefore they are agents unto themselves, and I have given unto you another law and commandment.

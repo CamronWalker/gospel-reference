@@ -1,0 +1,2 @@
+##### 17
+Therefore, pray ye the Lord that your flight be not in the winter, neither on the Sabbath day;

@@ -1,0 +1,2 @@
+##### 8
+My name is Jehovah, and I know the end from the beginning; therefore my hand shall be over thee.

@@ -1,0 +1,2 @@
+##### 43
+Wherefore Enoch saw that Noah built an ark; and that the Lord smiled upon it, and held it in his own hand; but upon the residue of the wicked the floods came and swallowed them up.

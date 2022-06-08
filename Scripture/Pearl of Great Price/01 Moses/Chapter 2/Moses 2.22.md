@@ -1,0 +1,2 @@
+##### 22
+And I, God, blessed them, saying: Be fruitful, and multiply, and fill the waters in the sea; and let fowl multiply in the earth;

@@ -1,0 +1,2 @@
+##### 2
+And he saw God face to face, and he talked with him, and the glory of God was upon Moses; therefore Moses could endure his presence.

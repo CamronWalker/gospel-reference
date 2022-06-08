@@ -1,0 +1,2 @@
+##### 19
+And I, the Lord God, said unto the woman: What is this thing which thou hast done? And the woman said: The serpent beguiled me, and I did eat.

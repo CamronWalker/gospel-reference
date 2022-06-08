@@ -1,0 +1,2 @@
+##### 6
+But I, the Lord God, spake, and there went up a mist from the earth, and watered the whole face of the ground.

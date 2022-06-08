@@ -1,0 +1,2 @@
+##### 27
+And Adam and his wife mourned before the Lord, because of Cain and his brethren.

@@ -1,0 +1,2 @@
+##### 30
+And it came to pass that Moses called upon God, saying: Tell me, I pray thee, why these things are so, and by what thou madest them?

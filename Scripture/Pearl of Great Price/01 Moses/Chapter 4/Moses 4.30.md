@@ -1,0 +1,2 @@
+##### 30
+For as I, the Lord God, liveth, even so my words cannot return void, for as they go forth out of my mouth they must be fulfilled.

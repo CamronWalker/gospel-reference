@@ -1,0 +1,2 @@
+##### 5
+And a book of remembrance was kept, in the which was recorded, in the language of Adam, for it was given unto as many as called upon God to write by the spirit of inspiration;

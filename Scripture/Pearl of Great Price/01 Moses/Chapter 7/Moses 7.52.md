@@ -1,0 +1,2 @@
+##### 52
+And he sent forth an unalterable decree, that a remnant of his seed should always be found among all nations, while the earth should stand;

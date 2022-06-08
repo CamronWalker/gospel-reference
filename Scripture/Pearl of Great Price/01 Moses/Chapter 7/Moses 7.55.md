@@ -1,0 +1,2 @@
+##### 55
+And the Lord said unto Enoch: Look, and he looked and beheld the Son of Man lifted up on the cross, after the manner of men;

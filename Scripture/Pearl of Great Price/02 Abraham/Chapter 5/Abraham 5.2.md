@@ -1,0 +1,2 @@
+##### 2
+And the Gods said among themselves: On the seventh time we will end our work, which we have counseled; and we will rest on the seventh time from all our work which we have counseled.

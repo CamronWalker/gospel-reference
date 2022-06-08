@@ -1,0 +1,2 @@
+##### 40
+But of that day, and hour, no one knoweth; no, not the angels of God in heaven, but my Father only.

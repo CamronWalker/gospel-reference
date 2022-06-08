@@ -1,0 +1,2 @@
+##### 4
+And then began these men to call upon the name of the Lord, and the Lord blessed them;

@@ -1,0 +1,2 @@
+##### 23
+And after that Zion was taken up into heaven, Enoch beheld, and lo, all the nations of the earth were before him;

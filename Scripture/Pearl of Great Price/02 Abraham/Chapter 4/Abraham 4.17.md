@@ -1,0 +1,2 @@
+##### 17
+And the Gods set them in the expanse of the heavens, to give light upon the earth, and to rule over the day and over the night, and to cause to divide the light from the darkness.

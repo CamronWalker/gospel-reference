@@ -1,0 +1,2 @@
+##### 17
+And I, God, set them in the firmament of the heaven to give light upon the earth,

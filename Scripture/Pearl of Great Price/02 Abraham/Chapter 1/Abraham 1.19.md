@@ -1,0 +1,2 @@
+##### 19
+As it was with Noah so shall it be with thee; but through thy ministry my name shall be known in the earth forever, for I am thy God.

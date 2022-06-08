@@ -1,0 +1,2 @@
+##### 14
+And the Lord God called upon men by the Holy Ghost everywhere and commanded them that they should repent;

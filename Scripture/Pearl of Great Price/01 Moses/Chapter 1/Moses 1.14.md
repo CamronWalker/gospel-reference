@@ -1,0 +1,2 @@
+##### 14
+For behold, I could not look upon God, except his glory should come upon me, and I were transfigured before him. But I can look upon thee in the natural man. Is it not so, surely?

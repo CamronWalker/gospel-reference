@@ -1,0 +1,2 @@
+##### 28
+And he beheld also the inhabitants thereof, and there was not a soul which he beheld not; and he discerned them by the Spirit of God; and their numbers were great, even numberless as the sand upon the sea shore.

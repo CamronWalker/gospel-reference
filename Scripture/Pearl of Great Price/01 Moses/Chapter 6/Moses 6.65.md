@@ -1,0 +1,2 @@
+##### 65
+And thus he was baptized, and the Spirit of God descended upon him, and thus he was born of the Spirit, and became quickened in the inner man.

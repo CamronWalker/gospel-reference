@@ -1,0 +1,2 @@
+##### 26
+And lo, I am with thee, even unto the end of thy days; for thou shalt deliver my people from bondage, even Israel my chosen.

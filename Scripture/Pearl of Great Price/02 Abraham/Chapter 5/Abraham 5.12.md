@@ -1,0 +1,2 @@
+##### 12
+And the Gods commanded the man, saying: Of every tree of the garden thou mayest freely eat,

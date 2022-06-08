@@ -1,0 +1,2 @@
+##### 1
+AND Adam hearkened unto the voice of God, and called upon his sons to repent.

@@ -1,0 +1,2 @@
+##### 21
+But unto Cain, and to his offering, he had not respect. Now Satan knew this, and it pleased him. And Cain was very wroth, and his countenance fell.

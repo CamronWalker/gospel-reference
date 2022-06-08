@@ -1,0 +1,2 @@
+##### 22
+Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones;

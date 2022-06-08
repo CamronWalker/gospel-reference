@@ -1,0 +1,2 @@
+##### 23
+And it came to pass that Noah continued his preaching unto the people, saying: Hearken, and give heed unto my words;

@@ -1,0 +1,2 @@
+##### 28
+The earth was corrupt before God, and it was filled with violence.

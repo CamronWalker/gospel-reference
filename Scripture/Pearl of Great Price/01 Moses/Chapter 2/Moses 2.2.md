@@ -1,0 +1,2 @@
+##### 2
+And the earth was without form, and void; and I caused darkness to come up upon the face of the deep; and my Spirit moved upon the face of the water; for I am God.

@@ -1,0 +1,2 @@
+##### 13
+It was made after the form of a bedstead, such as was had among the Chaldeans, and it stood before the gods of Elkenah, Libnah, Mahmackrah, Korash, and also a god like unto that of Pharaoh, king of Egypt.

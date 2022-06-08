@@ -1,0 +1,2 @@
+##### 21
+And I, God, created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind; and I, God, saw that all things which I had created were good.

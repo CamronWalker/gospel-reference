@@ -1,0 +1,2 @@
+##### 12
+And it came to pass that when Moses had said these words, behold, Satan came tempting him, saying: Moses, son of man, worship me.

@@ -1,0 +1,2 @@
+##### 6
+And again the Lord said unto me: Look; and I looked towards the north, and I beheld the people of Canaan, which dwelt in tents.

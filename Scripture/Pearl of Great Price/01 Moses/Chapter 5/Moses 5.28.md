@@ -1,0 +1,2 @@
+##### 28
+And it came to pass that Cain took one of his brothers' daughters to wife, and they loved Satan more than God.

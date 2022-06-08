@@ -1,0 +1,2 @@
+##### 58
+Therefore I give unto you a commandment, to teach these things freely unto your children, saying:

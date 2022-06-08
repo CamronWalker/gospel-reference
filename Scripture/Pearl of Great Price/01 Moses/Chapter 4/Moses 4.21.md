@@ -1,0 +1,2 @@
+##### 21
+And I will put enmity between thee and the woman, between thy seed and her seed; and he shall bruise thy head, and thou shalt bruise his heel.

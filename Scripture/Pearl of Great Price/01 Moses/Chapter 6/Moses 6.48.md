@@ -1,0 +1,2 @@
+##### 48
+And he said unto them: Because that Adam fell, we are; and by his fall came death; and we are made partakers of misery and woe.

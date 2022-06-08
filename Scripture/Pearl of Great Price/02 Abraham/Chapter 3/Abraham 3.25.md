@@ -1,0 +1,2 @@
+##### 25
+And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them;

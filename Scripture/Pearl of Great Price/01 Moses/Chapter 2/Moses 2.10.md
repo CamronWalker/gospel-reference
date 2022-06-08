@@ -1,0 +1,2 @@
+##### 10
+And I, God, called the dry land Earth; and the gathering together of the waters, called I the Sea; and I, God, saw that all things which I had made were good.

@@ -1,0 +1,2 @@
+##### 7
+And now, behold, this one thing I show unto thee, Moses, my son, for thou art in the world, and now I show it unto thee.

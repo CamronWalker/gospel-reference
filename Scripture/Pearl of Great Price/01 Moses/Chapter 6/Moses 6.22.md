@@ -1,0 +1,2 @@
+##### 22
+And this is the genealogy of the sons of Adam, who was the son of God, with whom God, himself, conversed.

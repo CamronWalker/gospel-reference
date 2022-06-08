@@ -1,0 +1,2 @@
+##### 21
+And now Satan began to tremble, and the earth shook; and Moses received strength, and called upon God, saying: In the name of the Only Begotten, depart hence, Satan.

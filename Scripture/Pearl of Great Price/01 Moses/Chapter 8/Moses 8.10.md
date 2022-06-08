@@ -1,0 +1,2 @@
+##### 10
+And Lamech lived, after he begat Noah, five hundred and ninety-five years, and begat sons and daughters;

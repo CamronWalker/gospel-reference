@@ -1,0 +1,2 @@
+##### 16
+Get thee hence, Satan; deceive me not; for God said unto me: Thou art after the similitude of mine Only Begotten.

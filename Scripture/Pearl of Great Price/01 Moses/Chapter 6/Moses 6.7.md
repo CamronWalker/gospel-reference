@@ -1,0 +1,2 @@
+##### 7
+Now this same Priesthood, which was in the beginning, shall be in the end of the world also.

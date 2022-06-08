@@ -1,0 +1,2 @@
+##### 4
+I sought for mine appointment unto the Priesthood according to the appointment of God unto the fathers concerning the seed.

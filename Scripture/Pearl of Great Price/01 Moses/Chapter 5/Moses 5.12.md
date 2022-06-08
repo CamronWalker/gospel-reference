@@ -1,0 +1,2 @@
+##### 12
+And Adam and Eve blessed the name of God, and they made all things known unto their sons and their daughters.

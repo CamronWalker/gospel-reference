@@ -1,0 +1,2 @@
+##### 10
+In the midst of this war of words and tumult of opinions, I often said to myself: What is to be done? Who of all these parties are right; or, are they all wrong together? If any one of them be right, which is it, and how shall I know it?

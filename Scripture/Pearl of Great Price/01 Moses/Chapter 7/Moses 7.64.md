@@ -1,0 +1,2 @@
+##### 64
+And there shall be mine abode, and it shall be Zion, which shall come forth out of all the creations which I have made; and for the space of a thousand years the earth shall rest.

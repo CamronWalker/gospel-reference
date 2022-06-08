@@ -1,0 +1,2 @@
+##### 8
+Wherefore, thou shalt do all that thou doest in the name of the Son, and thou shalt repent and call upon God in the name of the Son forevermore.

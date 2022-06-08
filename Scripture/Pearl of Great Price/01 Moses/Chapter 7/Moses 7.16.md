@@ -1,0 +1,2 @@
+##### 16
+And from that time forth there were wars and bloodshed among them; but the Lord came and dwelt with his people, and they dwelt in righteousness.

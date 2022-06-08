@@ -1,0 +1,2 @@
+##### 67
+Two days after the arrival of Mr. Cowdery (being the 7th of April) I commenced to translate the Book of Mormon, and he began to write for me.

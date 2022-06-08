@@ -1,0 +1,2 @@
+##### 10
+And I will bless them through thy name; for as many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father;

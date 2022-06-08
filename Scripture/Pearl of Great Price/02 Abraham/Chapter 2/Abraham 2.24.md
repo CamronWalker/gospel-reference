@@ -1,0 +1,2 @@
+##### 24
+Let her say unto the Egyptians, she is thy sister, and thy soul shall live.

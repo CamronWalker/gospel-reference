@@ -1,0 +1,2 @@
+##### 16
+And of the rib which the Gods had taken from man, formed they a woman, and brought her unto the man.

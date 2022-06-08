@@ -1,0 +1,2 @@
+##### 18
+And Cain loved Satan more than God. And Satan commanded him, saying: Make an offering unto the Lord.

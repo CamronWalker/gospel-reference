@@ -1,0 +1,2 @@
+##### 47
+And as Enoch spake forth the words of God, the people trembled, and could not stand in his presence.

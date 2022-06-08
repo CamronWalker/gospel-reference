@@ -1,0 +1,2 @@
+##### 11
+For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.

@@ -1,0 +1,2 @@
+##### 33
+Say unto this people: Choose ye this day, to serve the Lord God who made you.

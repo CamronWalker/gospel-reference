@@ -1,0 +1,2 @@
+##### 50
+Blessed is that servant whom his lord, when he cometh, shall find so doing; and verily I say unto you, he shall make him ruler over all his goods.

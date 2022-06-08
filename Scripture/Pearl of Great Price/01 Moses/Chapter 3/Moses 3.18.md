@@ -1,0 +1,2 @@
+##### 18
+And I, the Lord God, said unto mine Only Begotten, that it was not good that the man should be alone; wherefore, I will make an help meet for him.
