@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 15:26"]
----
-[Mosiah 15:26](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p26#p26) But behold, and fear, and tremble before God, for ye ought to tremble; for the Lord redeemeth none such that rebel against him and die in their sins; yea, even all those that have perished in their sins ever since the world began, that have wilfully rebelled against God, that have known the commandments of God, and would not keep them; these are they that have no part in the first resurrection.

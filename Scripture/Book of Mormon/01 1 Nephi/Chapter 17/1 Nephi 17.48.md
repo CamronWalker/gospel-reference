@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 17:48"]
----
-[1 Nephi 17:48](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng&id=p48#p48) And now it came to pass that when I had spoken these words they were angry with me, and were desirous to throw me into the depths of the sea; and as they came forth to lay their hands upon me I spake unto them, saying: In the name of the Almighty God, I command you that ye touch me not, for I am filled with the power of God, even unto the consuming of my flesh; and whoso shall lay his hands upon me shall wither even as a dried reed; and he shall be as naught before the power of God, for God shall smite him.

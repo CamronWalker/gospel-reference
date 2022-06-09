@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezekiel 10:4"]
----
-[Ezekiel 10:4](https://churchofjesuschrist.org/study/scriptures/ot/ezek/10?lang=eng&id=p4#p4) Then the glory of the LORD went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD's glory.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezra 7:11"]
----
-[Ezra 7:11](https://churchofjesuschrist.org/study/scriptures/ot/ezra/7?lang=eng&id=p11#p11) ¶ Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel.

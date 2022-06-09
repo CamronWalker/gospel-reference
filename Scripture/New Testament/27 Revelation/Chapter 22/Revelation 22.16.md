@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["Revelation 22:16"]
----
-[Revelation 22:16](https://churchofjesuschrist.org/study/scriptures/nt/rev/22?lang=eng&id=p16#p16) I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Ether 12:27"]
----
-[Ether 12:27](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p27#p27) And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.

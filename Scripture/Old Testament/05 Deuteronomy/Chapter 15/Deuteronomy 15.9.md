@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Deuteronomy 15:9"]
----
-[Deuteronomy 15:9](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=eng&id=p9#p9) Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.

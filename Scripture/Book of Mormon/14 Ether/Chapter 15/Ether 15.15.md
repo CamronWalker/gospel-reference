@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Ether 15:15"]
----
-[Ether 15:15](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng&id=p15#p15) And it came to pass that when they were all gathered together, every one to the army which he would, with their wives and their children--both men, women and children being armed with weapons of war, having shields, and breastplates, and head-plates, and being clothed after the manner of war--they did march forth one against another to battle; and they fought all that day, and conquered not.

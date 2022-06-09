@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 5:4"]
----
-[3 Nephi 5:4](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/5?lang=eng&id=p4#p4) And now it came to pass that when they had taken all the robbers prisoners, insomuch that none did escape who were not slain, they did cast their prisoners into prison, and did cause the word of God to be preached unto them; and as many as would repent of their sins and enter into a covenant that they would murder no more were set at liberty.

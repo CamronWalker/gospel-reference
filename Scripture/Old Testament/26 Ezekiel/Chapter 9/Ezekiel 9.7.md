@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezekiel 9:7"]
----
-[Ezekiel 9:7](https://churchofjesuschrist.org/study/scriptures/ot/ezek/9?lang=eng&id=p7#p7) And he said unto them, Defile the house, and fill the courts with the slain: go ye forth.  And they went forth, and slew in the city.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 18:17"]
----
-[1 Nephi 18:17](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng&id=p17#p17) Now my father, Lehi, had said many things unto them, and also unto the sons of Ishmael; but, behold, they did breathe out much threatenings against anyone that should speak for me; and my parents being stricken in years, and having suffered much grief because of their children, they were brought down, yea, even upon their sick-beds.

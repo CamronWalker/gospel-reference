@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Genesis 40:7"]
----
-[Genesis 40:7](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=eng&id=p7#p7) And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?

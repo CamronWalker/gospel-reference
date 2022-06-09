@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 9:5"]
----
-[2 Nephi 9:5](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p5#p5) Yea, I know that ye know that in the body he shall show himself unto those at Jerusalem, from whence we came; for it is expedient that it should be among them; for it behooveth the great Creator that he suffereth himself to become subject unto man in the flesh, and die for all men, that all men might become subject unto him.

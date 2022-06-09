@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 10:28"]
----
-[Alma 10:28](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=eng&id=p28#p28) And now it came to pass that when Amulek had spoken these words the people cried out against him, saying: Now we know that this man is a child of the devil, for he hath lied unto us; for he hath spoken against our law. And now he says that he has not spoken against it.

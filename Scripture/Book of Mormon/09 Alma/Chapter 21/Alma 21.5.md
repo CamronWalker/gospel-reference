@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 21:5"]
----
-[Alma 21:5](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=eng&id=p5#p5) Therefore, as Aaron entered into one of their synagogues to preach unto the people, and as he was speaking unto them, behold there arose an Amalekite and began to contend with him, saying: What is that thou hast testified? Hast thou seen an angel? Why do not angels appear unto us? Behold are not this people as good as thy people?

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Chronicles 12:27"]
----
-[1 Chronicles 12:27](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=eng&id=p27#p27) And Jehoiada was the leader of the Aaronites, and with him were three thousand and seven hundred;

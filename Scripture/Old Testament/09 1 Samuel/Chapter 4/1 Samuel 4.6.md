@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Samuel 4:6"]
----
-[1 Samuel 4:6](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/4?lang=eng&id=p6#p6) And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews?  And they understood that the ark of the LORD was come into the camp.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 4:4"]
----
-[3 Nephi 4:4](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/4?lang=eng&id=p4#p4) Therefore, there was no chance for the robbers to plunder and to obtain food, save it were to come up in open battle against the Nephites; and the Nephites being in one body, and having so great a number, and having reserved for themselves provisions, and horses and cattle, and flocks of every kind, that they might subsist for the space of seven years, in the which time they did hope to destroy the robbers from off the face of the land; and thus the eighteenth year did pass away.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Numbers 21:22"]
----
-[Numbers 21:22](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng&id=p22#p22) Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink of the waters of the well: but we will go along by the king's high way, until we be past thy borders.

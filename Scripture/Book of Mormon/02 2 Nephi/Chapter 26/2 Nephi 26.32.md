@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 26:32"]
----
-[2 Nephi 26:32](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p32#p32) And again, the Lord God hath commanded that men should not murder; that they should not lie; that they should not steal; that they should not take the name of the Lord their God in vain; that they should not envy; that they should not have malice; that they should not contend one with another; that they should not commit whoredoms; and that they should do none of these things; for whoso doeth them shall perish.

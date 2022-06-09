@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 2:6"]
----
-[1 Nephi 2:6](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=eng&id=p6#p6) And it came to pass that when he had traveled three days in the wilderness, he pitched his tent in a valley by the side of a river of water.

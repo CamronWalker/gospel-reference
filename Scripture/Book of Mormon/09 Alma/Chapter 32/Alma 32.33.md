@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 32:33"]
----
-[Alma 32:33](https://churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p33#p33) And now, behold, because ye have tried the experiment, and planted the seed, and it swelleth and sprouteth, and beginneth to grow, ye must needs know that the seed is good.

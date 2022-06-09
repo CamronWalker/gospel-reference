@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 6:7"]
----
-[Alma 6:7](https://churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=eng&id=p7#p7) And now it came to pass that when Alma had made these regulations he departed from them, yea, from the church which was in the city of Zarahemla, and went over upon the east of the river Sidon, into the valley of Gideon, there having been a city built, which was called the city of Gideon, which was in the valley that was called Gideon, being called after the man who was slain by the hand of Nehor with the sword.

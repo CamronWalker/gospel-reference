@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 40:11"]
----
-[Alma 40:11](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng&id=p11#p11) Now, concerning the state of the soul between death and the resurrection--Behold, it has been made known unto me by an angel, that the spirits of all men, as soon as they are departed from this mortal body, yea, the spirits of all men, whether they be good or evil, are taken home to that God who gave them life.

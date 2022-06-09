@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Kings 3:26"]
----
-[1 Kings 3:26](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=eng&id=p26#p26) Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it.  But the other said, Let it be neither mine nor thine, but divide it.

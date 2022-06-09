@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 1:24"]
----
-[2 Nephi 1:24](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/1?lang=eng&id=p24#p24) Rebel no more against your brother, whose views have been glorious, and who hath kept the commandments from the time that we left Jerusalem; and who hath been an instrument in the hands of God, in bringing us forth into the land of promise; for were it not for him, we must have perished with hunger in the wilderness; nevertheless, ye sought to take away his life; yea, and he hath suffered much sorrow because of you.

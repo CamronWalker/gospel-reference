@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 6:17"]
----
-[Helaman 6:17](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng&id=p17#p17) For behold, the Lord had blessed them so long with the riches of the world that they had not been stirred up to anger, to wars, nor to bloodshed; therefore they began to set their hearts upon their riches; yea, they began to seek to get gain that they might be lifted up one above another; therefore they began to commit secret murders, and to rob and to plunder, that they might get gain.

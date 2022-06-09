@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["Acts 10:22"]
----
-[Acts 10:22](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=eng&id=p22#p22) And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.

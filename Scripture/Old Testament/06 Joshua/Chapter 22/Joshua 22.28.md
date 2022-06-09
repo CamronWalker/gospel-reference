@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Joshua 22:28"]
----
-[Joshua 22:28](https://churchofjesuschrist.org/study/scriptures/ot/josh/22?lang=eng&id=p28#p28) Therefore said we, that it shall be, when they should so say to us or to our generations in time to come, that we may say again, Behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings, nor for sacrifices; but it is a witness between us and you.

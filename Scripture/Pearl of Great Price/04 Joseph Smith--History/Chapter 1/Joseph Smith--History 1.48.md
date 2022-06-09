@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/PoGP, noGraph]
-aliases: ["Joseph Smith--History 1:48"]
----
-[Joseph Smith--History 1:48](https://churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p48#p48) I shortly after arose from my bed, and, as usual, went to the necessary labors of the day; but, in attempting to work as at other times, I found my strength so exhausted as to render me entirely unable. My father, who was laboring along with me, discovered something to be wrong with me, and told me to go home. I started with the intention of going to the house; but, in attempting to cross the fence out of the field where we were, my strength entirely failed me, and I fell helpless on the ground, and for a time was quite unconscious of anything.

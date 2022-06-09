@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["Luke 24:44"]
----
-[Luke 24:44](https://churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng&id=p44#p44) And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.

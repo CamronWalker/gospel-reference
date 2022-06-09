@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Jeremiah 25:26"]
----
-[Jeremiah 25:26](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=eng&id=p26#p26) And all the kings of the north, far and near, one with another, and all the kingdoms of the world, which are upon the face of the earth: and the king of Sheshach shall drink after them.

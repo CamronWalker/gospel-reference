@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/PoGP, noGraph]
-aliases: ["Abraham 2:20"]
----
-[Abraham 2:20](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p20#p20) And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.

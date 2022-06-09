@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 10:3"]
----
-[1 Nephi 10:3](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng&id=p3#p3) That after they should be destroyed, even that great city Jerusalem, and many be carried away captive into Babylon, according to the own due time of the Lord, they should return again, yea, even be brought back out of captivity; and after they should be brought back out of captivity they should possess again the land of their inheritance.

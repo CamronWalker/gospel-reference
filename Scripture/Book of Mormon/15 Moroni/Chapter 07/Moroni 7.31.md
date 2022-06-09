@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Moroni 7:31"]
----
-[Moroni 7:31](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng&id=p31#p31) And the office of their ministry is to call men unto repentance, and to fulfil and to do the work of the covenants of the Father, which he hath made unto the children of men, to prepare the way among the children of men, by declaring the word of Christ unto the chosen vessels of the Lord, that they may bear testimony of him.

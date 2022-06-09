@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Isaiah 34:6"]
----
-[Isaiah 34:6](https://churchofjesuschrist.org/study/scriptures/ot/isa/34?lang=eng&id=p6#p6) The sword of the LORD is filled with blood, it is made fat with fatness, and with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.

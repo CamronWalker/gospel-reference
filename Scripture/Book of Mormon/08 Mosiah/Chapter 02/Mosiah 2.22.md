@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 2:22"]
----
-[Mosiah 2:22](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p22#p22) And behold, all that he requires of you is to keep his commandments; and he has promised you that if ye would keep his commandments ye should prosper in the land; and he never doth vary from that which he hath said; therefore, if ye do keep his commandments he doth bless you and prosper you.

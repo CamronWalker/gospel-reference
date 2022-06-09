@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Samuel 19:23"]
----
-[1 Samuel 19:23](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=eng&id=p23#p23) And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.

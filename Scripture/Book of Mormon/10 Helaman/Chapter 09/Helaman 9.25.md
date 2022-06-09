@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 9:25"]
----
-[Helaman 9:25](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=eng&id=p25#p25) And now behold, I will show unto you another sign, and see if ye will in this thing seek to destroy me.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Chronicles 12:20"]
----
-[1 Chronicles 12:20](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/12?lang=eng&id=p20#p20) As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezekiel 31:11"]
----
-[Ezekiel 31:11](https://churchofjesuschrist.org/study/scriptures/ot/ezek/31?lang=eng&id=p11#p11) I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.

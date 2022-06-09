@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 30:14"]
----
-[2 Nephi 30:14](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/30?lang=eng&id=p14#p14) And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice's den.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 5:18"]
----
-[Helaman 5:18](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p18#p18) And it came to pass that Nephi and Lehi did preach unto the Lamanites with such great power and authority, for they had power and authority given unto them that they might speak, and they also had what they should speak given unto them--

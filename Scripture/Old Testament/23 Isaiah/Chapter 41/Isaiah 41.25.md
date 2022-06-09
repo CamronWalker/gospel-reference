@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Isaiah 41:25"]
----
-[Isaiah 41:25](https://churchofjesuschrist.org/study/scriptures/ot/isa/41?lang=eng&id=p25#p25) I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon morter, and as the potter treadeth clay.

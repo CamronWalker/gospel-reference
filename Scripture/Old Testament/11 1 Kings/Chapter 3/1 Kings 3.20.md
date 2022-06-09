@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Kings 3:20"]
----
-[1 Kings 3:20](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=eng&id=p20#p20) And she arose at midnight, and took my son from beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.

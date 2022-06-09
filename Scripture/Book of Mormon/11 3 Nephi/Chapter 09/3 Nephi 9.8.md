@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 9:8"]
----
-[3 Nephi 9:8](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p8#p8) And behold, the city of Gadiandi, and the city of Gadiomnah, and the city of Jacob, and the city of Gimgimno, all these have I caused to be sunk, and made hills and valleys in the places thereof; and the inhabitants thereof have I buried up in the depths of the earth, to hide their wickedness and abominations from before my face, that the blood of the prophets and the saints should not come up any more unto me against them.

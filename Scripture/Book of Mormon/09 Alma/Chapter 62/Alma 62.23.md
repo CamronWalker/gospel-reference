@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 62:23"]
----
-[Alma 62:23](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=eng&id=p23#p23) And it came to pass that they were all let down into the city by night, by the means of their strong cords and their ladders; thus when the morning came they were all within the walls of the city.

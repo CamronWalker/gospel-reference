@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Moroni 7:41"]
----
-[Moroni 7:41](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng&id=p41#p41) And what is it that ye shall hope for? Behold I say unto you that ye shall have hope through the atonement of Christ and the power of his resurrection, to be raised unto life eternal, and this because of your faith in him according to the promise.

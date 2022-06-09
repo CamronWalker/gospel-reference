@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Zephaniah 1:8"]
----
-[Zephaniah 1:8](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=eng&id=p8#p8) And it shall come to pass in the day of the LORD's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel.

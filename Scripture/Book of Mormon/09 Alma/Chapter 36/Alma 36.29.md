@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 36:29"]
----
-[Alma 36:29](https://churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p29#p29) Yea, and he has also brought our fathers out of the land of Jerusalem; and he has also, by his everlasting power, delivered them out of bondage and captivity, from time to time even down to the present day; and I have always retained in remembrance their captivity; yea, and ye also ought to retain in remembrance, as I have done, their captivity.

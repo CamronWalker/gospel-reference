@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 9:25"]
----
-[2 Nephi 9:25](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p25#p25) Wherefore, he has given a law; and where there is no law given there is no punishment; and where there is no punishment there is no condemnation; and where there is no condemnation the mercies of the Holy One of Israel have claim upon them, because of the atonement; for they are delivered by the power of him.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 6:20"]
----
-[Helaman 6:20](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng&id=p20#p20) And now it came to pass that when the Lamanites found that there were robbers among them they were exceedingly sorrowful; and they did use every means in their power to destroy them off the face of the earth.

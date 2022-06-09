@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/PoGP, noGraph]
-aliases: ["Moses 1:41"]
----
-[Moses 1:41](https://churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p41#p41) And in a day when the children of men shall esteem my words as naught and take many of them from the book which thou shalt write, behold, I will raise up another like unto thee; and they shall be had again among the children of men--among as many as shall believe.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 12:11"]
----
-[1 Nephi 12:11](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=eng&id=p11#p11) And the angel said unto me: Look! And I looked, and beheld three generations pass away in righteousness; and their garments were white even like unto the Lamb of God. And the angel said unto me: These are made white in the blood of the Lamb, because of their faith in him.

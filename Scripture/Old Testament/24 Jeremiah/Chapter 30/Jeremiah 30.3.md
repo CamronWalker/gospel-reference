@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Jeremiah 30:3"]
----
-[Jeremiah 30:3](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=eng&id=p3#p3) For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.

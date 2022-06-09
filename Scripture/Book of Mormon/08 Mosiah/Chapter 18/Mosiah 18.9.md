@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 18:9"]
----
-[Mosiah 18:9](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p9#p9) Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life--

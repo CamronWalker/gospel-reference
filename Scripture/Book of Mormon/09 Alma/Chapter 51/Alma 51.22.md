@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 51:22"]
----
-[Alma 51:22](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=eng&id=p22#p22) Behold, it came to pass that while Moroni was thus breaking down the wars and contentions among his own people, and subjecting them to peace and civilization, and making regulations to prepare for war against the Lamanites, behold, the Lamanites had come into the land of Moroni, which was in the borders by the seashore.

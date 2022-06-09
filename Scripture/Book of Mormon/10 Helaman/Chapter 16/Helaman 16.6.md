@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 16:6"]
----
-[Helaman 16:6](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=eng&id=p6#p6) But the more part of them did not believe in the words of Samuel; therefore when they saw that they could not hit him with their stones and their arrows, they cried unto their captains, saying: Take this fellow and bind him, for behold he hath a devil; and because of the power of the devil which is in him we cannot hit him with our stones and our arrows; therefore take him and bind him, and away with him.

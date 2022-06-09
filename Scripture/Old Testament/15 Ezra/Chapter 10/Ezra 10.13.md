@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezra 10:13"]
----
-[Ezra 10:13](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=eng&id=p13#p13) But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing.

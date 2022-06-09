@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 5:3"]
----
-[Alma 5:3](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p3#p3) I, Alma, having been consecrated by my father, Alma, to be a high priest over the church of God, he having power and authority from God to do these things, behold, I say unto you that he began to establish a church in the land which was in the borders of Nephi; yea, the land which was called the land of Mormon; yea, and he did baptize his brethren in the waters of Mormon.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Deuteronomy 18:14"]
----
-[Deuteronomy 18:14](https://churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng&id=p14#p14) For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so to do.

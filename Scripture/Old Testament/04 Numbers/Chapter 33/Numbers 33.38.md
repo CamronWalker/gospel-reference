@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Numbers 33:38"]
----
-[Numbers 33:38](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=eng&id=p38#p38) And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.

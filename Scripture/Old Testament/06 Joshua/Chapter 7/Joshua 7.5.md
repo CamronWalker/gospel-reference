@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Joshua 7:5"]
----
-[Joshua 7:5](https://churchofjesuschrist.org/study/scriptures/ot/josh/7?lang=eng&id=p5#p5) And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.

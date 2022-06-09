@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Jacob 5:16"]
----
-[Jacob 5:16](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng&id=p16#p16) And it came to pass that the Lord of the vineyard, and also the servant, went down into the vineyard to labor. And it came to pass that the servant said unto his master: Behold, look here; behold the tree.

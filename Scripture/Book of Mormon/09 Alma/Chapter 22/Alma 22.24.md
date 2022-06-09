@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 22:24"]
----
-[Alma 22:24](https://churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=eng&id=p24#p24) Now there was a multitude gathered together because of the commandment of the queen, and there began to be great murmurings among them because of Aaron and his brethren.

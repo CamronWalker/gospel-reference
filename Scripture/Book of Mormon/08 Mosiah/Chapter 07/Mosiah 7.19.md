@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 7:19"]
----
-[Mosiah 7:19](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=eng&id=p19#p19) Therefore, lift up your heads, and rejoice, and put your trust in God, in that God who was the God of Abraham, and Isaac, and Jacob; and also, that God who brought the children of Israel out of the land of Egypt, and caused that they should walk through the Red Sea on dry ground, and fed them with manna that they might not perish in the wilderness; and many more things did he do for them.

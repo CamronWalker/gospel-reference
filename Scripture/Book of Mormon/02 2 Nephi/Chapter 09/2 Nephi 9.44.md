@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 9:44"]
----
-[2 Nephi 9:44](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p44#p44) O, my beloved brethren, remember my words. Behold, I take off my garments, and I shake them before you; I pray the God of my salvation that he view me with his all-searching eye; wherefore, ye shall know at the last day, when all men shall be judged of their works, that the God of Israel did witness that I shook your iniquities from my soul, and that I stand with brightness before him, and am rid of your blood.

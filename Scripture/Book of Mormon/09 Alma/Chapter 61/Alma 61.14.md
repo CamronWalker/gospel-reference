@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 61:14"]
----
-[Alma 61:14](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=eng&id=p14#p14) Therefore, my beloved brother, Moroni, let us resist evil, and whatsoever evil we cannot resist with our words, yea, such as rebellions and dissensions, let us resist them with our swords, that we may retain our freedom, that we may rejoice in the great privilege of our church, and in the cause of our Redeemer and our God.

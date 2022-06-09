@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Amos 3:5"]
----
-[Amos 3:5](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p5#p5) Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?

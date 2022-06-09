@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 19:6"]
----
-[Alma 19:6](https://churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=eng&id=p6#p6) Now, this was what Ammon desired, for he knew that king Lamoni was under the power of God; he knew that the dark veil of unbelief was being cast away from his mind, and the light which did light up his mind, which was the light of the glory of God, which was a marvelous light of his goodness--yea, this light had infused such joy into his soul, the cloud of darkness having been dispelled, and that the light of everlasting life was lit up in his soul, yea, he knew that this had overcome his natural frame, and he was carried away in God--

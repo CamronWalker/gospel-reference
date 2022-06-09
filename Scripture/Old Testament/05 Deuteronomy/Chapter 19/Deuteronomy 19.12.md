@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Deuteronomy 19:12"]
----
-[Deuteronomy 19:12](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=eng&id=p12#p12) Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.

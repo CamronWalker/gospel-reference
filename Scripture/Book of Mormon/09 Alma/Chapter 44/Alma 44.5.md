@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 44:5"]
----
-[Alma 44:5](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=eng&id=p5#p5) And now, Zerahemnah, I command you, in the name of that all-powerful God, who has strengthened our arms that we have gained power over you, by our faith, by our religion, and by our rites of worship, and by our church, and by the sacred support which we owe to our wives and our children, by that liberty which binds us to our lands and our country; yea, and also by the maintenance of the sacred word of God, to which we owe all our happiness; and by all that is most dear unto us--

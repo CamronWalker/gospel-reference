@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 2:38"]
----
-[Mosiah 2:38](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p38#p38) Therefore if that man repenteth not, and remaineth and dieth an enemy to God, the demands of divine justice do awaken his immortal soul to a lively sense of his own guilt, which doth cause him to shrink from the presence of the Lord, and doth fill his breast with guilt, and pain, and anguish, which is like an unquenchable fire, whose flame ascendeth up forever and ever.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 12:2"]
----
-[Helaman 12:2](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=eng&id=p2#p2) Yea, and we may see at the very time when he doth prosper his people, yea, in the increase of their fields, their flocks and their herds, and in gold, and in silver, and in all manner of precious things of every kind and art; sparing their lives, and delivering them out of the hands of their enemies; softening the hearts of their enemies that they should not declare wars against them; yea, and in fine, doing all things for the welfare and happiness of his people; yea, then is the time that they do harden their hearts, and do forget the Lord their God, and do trample under their feet the Holy One--yea, and this because of their ease, and their exceedingly great prosperity.

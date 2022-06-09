@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Joshua 3:16"]
----
-[Joshua 3:16](https://churchofjesuschrist.org/study/scriptures/ot/josh/3?lang=eng&id=p16#p16) That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho.

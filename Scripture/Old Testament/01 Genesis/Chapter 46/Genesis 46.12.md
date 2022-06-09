@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Genesis 46:12"]
----
-[Genesis 46:12](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=eng&id=p12#p12) ¶ And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan.  And the sons of Pharez were Hezron and Hamul.

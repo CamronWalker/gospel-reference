@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 14:14"]
----
-[1 Nephi 14:14](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p14#p14) And it came to pass that I, Nephi, beheld the power of the Lamb of God, that it descended upon the saints of the church of the Lamb, and upon the covenant people of the Lord, who were scattered upon all the face of the earth; and they were armed with righteousness and with the power of God in great glory.

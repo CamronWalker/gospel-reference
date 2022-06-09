@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Moroni 8:12"]
----
-[Moroni 8:12](https://churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p12#p12) But little children are alive in Christ, even from the foundation of the world; if not so, God is a partial God, and also a changeable God, and a respecter to persons; for how many little children have died without baptism!

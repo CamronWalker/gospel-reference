@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Ether 10:23"]
----
-[Ether 10:23](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=eng&id=p23#p23) And they did work in all manner of ore, and they did make gold, and silver, and iron, and brass, and all manner of metals; and they did dig it out of the earth; wherefore, they did cast up mighty heaps of earth to get ore, of gold, and of silver, and of iron, and of copper. And they did work all manner of fine work.

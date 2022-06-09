@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Ether 2:16"]
----
-[Ether 2:16](https://churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=eng&id=p16#p16) And the Lord said: Go to work and build, after the manner of barges which ye have hitherto built. And it came to pass that the brother of Jared did go to work, and also his brethren, and built barges after the manner which they had built, according to the instructions of the Lord. And they were small, and they were light upon the water, even like unto the lightness of a fowl upon the water.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 5:29"]
----
-[Alma 5:29](https://churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p29#p29) Behold, I say, is there one among you who is not stripped of envy? I say unto you that such an one is not prepared; and I would that he should prepare quickly, for the hour is close at hand, and he knoweth not when the time shall come; for such an one is not found guiltless.

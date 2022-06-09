@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/DaC, noGraph]
-aliases: ["D&C 6:7"]
----
-[D&C 6:7](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng&id=p7#p7) Seek not for riches but for wisdom, and behold, the mysteries of God shall be unfolded unto you, and then shall you be made rich. Behold, he that hath eternal life is rich.

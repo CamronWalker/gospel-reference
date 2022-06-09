@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 2:34"]
----
-[Mosiah 2:34](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p34#p34) I say unto you, that there are not any among you, except it be your little children that have not been taught concerning these things, but what knoweth that ye are eternally indebted to your heavenly Father, to render to him all that you have and are; and also have been taught concerning the records which contain the prophecies which have been spoken by the holy prophets, even down to the time our father, Lehi, left Jerusalem;

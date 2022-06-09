@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 13:21"]
----
-[Helaman 13:21](https://churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=eng&id=p21#p21) Behold ye, the people of this great city, and hearken unto my words; yea, hearken unto the words which the Lord saith; for behold, he saith that ye are cursed because of your riches, and also are your riches cursed because ye have set your hearts upon them, and have not hearkened unto the words of him who gave them unto you.

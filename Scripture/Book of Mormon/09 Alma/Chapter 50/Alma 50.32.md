@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 50:32"]
----
-[Alma 50:32](https://churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=eng&id=p32#p32) Now behold, the people who were in the land Bountiful, or rather Moroni, feared that they would hearken to the words of Morianton and unite with his people, and thus he would obtain possession of those parts of the land, which would lay a foundation for serious consequences among the people of Nephi, yea, which consequences would lead to the overthrow of their liberty.

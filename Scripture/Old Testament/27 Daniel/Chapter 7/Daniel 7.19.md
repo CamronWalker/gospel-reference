@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Daniel 7:19"]
----
-[Daniel 7:19](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=eng&id=p19#p19) Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 21:20"]
----
-[Alma 21:20](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=eng&id=p20#p20) But he caused that there should be synagogues built in the land of Ishmael; and he caused that his people, or the people who were under his reign, should assemble themselves together.

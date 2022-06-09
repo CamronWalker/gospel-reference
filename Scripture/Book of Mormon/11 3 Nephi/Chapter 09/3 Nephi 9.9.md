@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 9:9"]
----
-[3 Nephi 9:9](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p9#p9) And behold, that great city Jacobugath, which was inhabited by the people of king Jacob, have I caused to be burned with fire because of their sins and their wickedness, which was above all the wickedness of the whole earth, because of their secret murders and combinations; for it was they that did destroy the peace of my people and the government of the land; therefore I did cause them to be burned, to destroy them from before my face, that the blood of the prophets and the saints should not come up unto me any more against them.

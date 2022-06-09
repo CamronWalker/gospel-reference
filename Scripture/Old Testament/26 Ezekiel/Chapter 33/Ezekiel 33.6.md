@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ezekiel 33:6"]
----
-[Ezekiel 33:6](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=eng&id=p6#p6) But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman's hand.

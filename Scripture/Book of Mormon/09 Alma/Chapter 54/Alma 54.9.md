@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 54:9"]
----
-[Alma 54:9](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=eng&id=p9#p9) And now behold, we are prepared to receive you; yea, and except you withdraw your purposes, behold, ye will pull down the wrath of that God whom you have rejected upon you, even to your utter destruction.

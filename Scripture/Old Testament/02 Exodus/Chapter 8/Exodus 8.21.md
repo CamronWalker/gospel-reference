@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Exodus 8:21"]
----
-[Exodus 8:21](https://churchofjesuschrist.org/study/scriptures/ot/ex/8?lang=eng&id=p21#p21) Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.

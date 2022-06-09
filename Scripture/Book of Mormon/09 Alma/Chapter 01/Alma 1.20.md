@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 1:20"]
----
-[Alma 1:20](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=eng&id=p20#p20) Yea, they did persecute them, and afflict them with all manner of words, and this because of their humility; because they were not proud in their own eyes, and because they did impart the word of God, one with another, without money and without price.

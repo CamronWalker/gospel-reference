@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 48:8"]
----
-[Alma 48:8](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=eng&id=p8#p8) Yea, he had been strengthening the armies of the Nephites, and erecting small forts, or places of resort; throwing up banks of earth round about to enclose his armies, and also building walls of stone to encircle them about, round about their cities and the borders of their lands; yea, all round about the land.

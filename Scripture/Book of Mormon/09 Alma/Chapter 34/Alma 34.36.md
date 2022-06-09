@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 34:36"]
----
-[Alma 34:36](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p36#p36) And this I know, because the Lord hath said he dwelleth not in unholy temples, but in the hearts of the righteous doth he dwell; yea, and he has also said that the righteous shall sit down in his kingdom, to go no more out; but their garments should be made white through the blood of the Lamb.

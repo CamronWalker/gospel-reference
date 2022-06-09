@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Exodus 15:1"]
----
-[Exodus 15:1](https://churchofjesuschrist.org/study/scriptures/ot/ex/15?lang=eng&id=p1#p1) THEN sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.

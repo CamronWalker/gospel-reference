@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Isaiah 14:13"]
----
-[Isaiah 14:13](https://churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p13#p13) For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:

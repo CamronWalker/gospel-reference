@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["2 Samuel 6:15"]
----
-[2 Samuel 6:15](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=eng&id=p15#p15) So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/PoGP, noGraph]
-aliases: ["Moses 6:31"]
----
-[Moses 6:31](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p31#p31) And when Enoch had heard these words, he bowed himself to the earth, before the Lord, and spake before the Lord, saying: Why is it that I have found favor in thy sight, and am but a lad, and all the people hate me; for I am slow of speech; wherefore am I thy servant?

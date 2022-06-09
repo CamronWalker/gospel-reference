@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["1 Nephi 12:19"]
----
-[1 Nephi 12:19](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=eng&id=p19#p19) And while the angel spake these words, I beheld and saw that the seed of my brethren did contend against my seed, according to the word of the angel; and because of the pride of my seed, and the temptations of the devil, I beheld that the seed of my brethren did overpower the people of my seed.

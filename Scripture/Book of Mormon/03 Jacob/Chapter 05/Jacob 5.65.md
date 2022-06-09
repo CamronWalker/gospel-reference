@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Jacob 5:65"]
----
-[Jacob 5:65](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng&id=p65#p65) And as they begin to grow ye shall clear away the branches which bring forth bitter fruit, according to the strength of the good and the size thereof; and ye shall not clear away the bad thereof all at once, lest the roots thereof should be too strong for the graft, and the graft thereof shall perish, and I lose the trees of my vineyard.

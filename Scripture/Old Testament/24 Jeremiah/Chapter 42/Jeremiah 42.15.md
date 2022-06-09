@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Jeremiah 42:15"]
----
-[Jeremiah 42:15](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=eng&id=p15#p15) And now therefore hear the word of the LORD, ye remnant of Judah; Thus saith the LORD of hosts, the God of Israel; If ye wholly set your faces to enter into Egypt, and go to sojourn there;

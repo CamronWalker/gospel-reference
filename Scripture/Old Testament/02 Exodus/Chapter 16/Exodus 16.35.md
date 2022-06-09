@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Exodus 16:35"]
----
-[Exodus 16:35](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=eng&id=p35#p35) And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.

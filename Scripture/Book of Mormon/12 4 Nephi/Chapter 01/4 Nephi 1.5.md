@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["4 Nephi 1:5"]
----
-[4 Nephi 1:5](https://churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=eng&id=p5#p5) And there were great and marvelous works wrought by the disciples of Jesus, insomuch that they did heal the sick, and raise the dead, and cause the lame to walk, and the blind to receive their sight, and the deaf to hear; and all manner of miracles did they work among the children of men; and in nothing did they work miracles save it were in the name of Jesus.

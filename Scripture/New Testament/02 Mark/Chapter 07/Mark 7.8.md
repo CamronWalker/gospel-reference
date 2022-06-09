@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["Mark 7:8"]
----
-[Mark 7:8](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng&id=p8#p8) For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do.

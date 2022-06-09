@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Kings 20:11"]
----
-[1 Kings 20:11](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/20?lang=eng&id=p11#p11) And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off.

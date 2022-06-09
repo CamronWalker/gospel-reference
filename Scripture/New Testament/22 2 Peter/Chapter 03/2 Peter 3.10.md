@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["2 Peter 3:10"]
----
-[2 Peter 3:10](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=eng&id=p10#p10) But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.

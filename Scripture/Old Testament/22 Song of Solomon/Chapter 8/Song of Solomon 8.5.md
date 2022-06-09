@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Song of Solomon 8:5"]
----
-[Song of Solomon 8:5](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=eng&id=p5#p5) Who is this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth that bare thee.

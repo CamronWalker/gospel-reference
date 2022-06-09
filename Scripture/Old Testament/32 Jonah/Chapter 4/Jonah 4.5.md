@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Jonah 4:5"]
----
-[Jonah 4:5](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng&id=p5#p5) So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.

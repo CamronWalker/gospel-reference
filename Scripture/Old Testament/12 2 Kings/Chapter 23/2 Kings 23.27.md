@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["2 Kings 23:27"]
----
-[2 Kings 23:27](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p27#p27) And the LORD said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.

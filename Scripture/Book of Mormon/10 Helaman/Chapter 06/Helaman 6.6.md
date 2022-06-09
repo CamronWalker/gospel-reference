@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 6:6"]
----
-[Helaman 6:6](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng&id=p6#p6) And it came to pass that many of the Lamanites did go into the land northward; and also Nephi and Lehi went into the land northward, to preach unto the people. And thus ended the sixty and third year.

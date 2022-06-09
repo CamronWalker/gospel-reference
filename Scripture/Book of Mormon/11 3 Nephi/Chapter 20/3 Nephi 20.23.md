@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 20:23"]
----
-[3 Nephi 20:23](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng&id=p23#p23) Behold, I am he of whom Moses spake, saying: A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that every soul who will not hear that prophet shall be cut off from among the people.

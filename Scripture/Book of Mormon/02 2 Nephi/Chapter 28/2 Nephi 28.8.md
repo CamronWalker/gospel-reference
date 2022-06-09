@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 28:8"]
----
-[2 Nephi 28:8](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng&id=p8#p8) And there shall also be many which shall say: Eat, drink, and be merry; nevertheless, fear God--he will justify in committing a little sin; yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this; and do all these things, for tomorrow we die; and if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.

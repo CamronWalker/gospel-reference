@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Leviticus 13:51"]
----
-[Leviticus 13:51](https://churchofjesuschrist.org/study/scriptures/ot/lev/13?lang=eng&id=p51#p51) And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.

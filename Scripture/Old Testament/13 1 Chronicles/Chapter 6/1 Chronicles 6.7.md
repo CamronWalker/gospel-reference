@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["1 Chronicles 6:7"]
----
-[1 Chronicles 6:7](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=eng&id=p7#p7) Meraioth begat Amariah, and Amariah begat Ahitub,

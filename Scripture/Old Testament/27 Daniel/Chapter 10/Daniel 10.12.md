@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Daniel 10:12"]
----
-[Daniel 10:12](https://churchofjesuschrist.org/study/scriptures/ot/dan/10?lang=eng&id=p12#p12) Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.

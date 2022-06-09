@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 46:13"]
----
-[Alma 46:13](https://churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng&id=p13#p13) And he fastened on his head-plate, and his breastplate, and his shields, and girded on his armor about his loins; and he took the pole, which had on the end thereof his rent coat, (and he called it the title of liberty) and he bowed himself to the earth, and he prayed mightily unto his God for the blessings of liberty to rest upon his brethren, so long as there should a band of Christians remain to possess the land--

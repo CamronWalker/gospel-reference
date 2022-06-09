@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Exodus 9:25"]
----
-[Exodus 9:25](https://churchofjesuschrist.org/study/scriptures/ot/ex/9?lang=eng&id=p25#p25) And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.

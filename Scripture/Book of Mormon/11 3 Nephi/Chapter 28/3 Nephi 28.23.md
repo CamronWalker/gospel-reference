@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 28:23"]
----
-[3 Nephi 28:23](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/28?lang=eng&id=p23#p23) And it came to pass that thus they did go forth among all the people of Nephi, and did preach the gospel of Christ unto all people upon the face of the land; and they were converted unto the Lord, and were united unto the church of Christ, and thus the people of that generation were blessed, according to the word of Jesus.

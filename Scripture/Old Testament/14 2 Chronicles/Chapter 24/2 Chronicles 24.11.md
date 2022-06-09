@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["2 Chronicles 24:11"]
----
-[2 Chronicles 24:11](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/24?lang=eng&id=p11#p11) Now it came to pass, that at what time the chest was brought unto the king's office by the hand of the Levites, and when they saw that there was much money, the king's scribe and the high priest's officer came and emptied the chest, and took it, and carried it to his place again.  Thus they did day by day, and gathered money in abundance.

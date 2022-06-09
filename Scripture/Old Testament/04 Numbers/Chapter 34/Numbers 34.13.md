@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Numbers 34:13"]
----
-[Numbers 34:13](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=eng&id=p13#p13) And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:

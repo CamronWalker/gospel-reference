@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 1:25"]
----
-[3 Nephi 1:25](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=eng&id=p25#p25) But it came to pass that they soon became converted, and were convinced of the error which they were in, for it was made known unto them that the law was not yet fulfilled, and that it must be fulfilled in every whit; yea, the word came unto them that it must be fulfilled; yea, that one jot or tittle should not pass away till it should all be fulfilled; therefore in this same year were they brought to a knowledge of their error and did confess their faults.

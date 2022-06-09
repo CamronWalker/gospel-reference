@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 1:1"]
----
-[Alma 1:1](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=eng&id=p1#p1) Now it came to pass that in the first year of the reign of the judges over the people of Nephi, from this time forward, king Mosiah having gone the way of all the earth, having warred a good warfare, walking uprightly before God, leaving none to reign in his stead; nevertheless he had established laws, and they were acknowledged by the people; therefore they were obliged to abide by the laws which he had made.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Ruth 4:11"]
----
-[Ruth 4:11](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=eng&id=p11#p11) And all the people that were in the gate, and the elders, said, We are witnesses.  The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:

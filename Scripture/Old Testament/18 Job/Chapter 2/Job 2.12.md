@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Job 2:12"]
----
-[Job 2:12](https://churchofjesuschrist.org/study/scriptures/ot/job/2?lang=eng&id=p12#p12) And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 14:20"]
----
-[Helaman 14:20](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=eng&id=p20#p20) But behold, as I said unto you concerning another sign, a sign of his death, behold, in that day that he shall suffer death the sun shall be darkened and refuse to give his light unto you; and also the moon and the stars; and there shall be no light upon the face of this land, even from the time that he shall suffer death, for the space of three days, to the time that he shall rise again from the dead.

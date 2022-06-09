@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Jeremiah 42:11"]
----
-[Jeremiah 42:11](https://churchofjesuschrist.org/study/scriptures/ot/jer/42?lang=eng&id=p11#p11) Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I am with you to save you, and to deliver you from his hand.

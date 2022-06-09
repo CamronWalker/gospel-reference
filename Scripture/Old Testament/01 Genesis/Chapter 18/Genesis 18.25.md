@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Genesis 18:25"]
----
-[Genesis 18:25](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p25#p25) That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?

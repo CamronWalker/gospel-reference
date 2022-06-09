@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/PoGP, noGraph]
-aliases: ["Moses 2:26"]
----
-[Moses 2:26](https://churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=eng&id=p26#p26) And I, God, said unto mine Only Begotten, which was with me from the beginning: Let us make man in our image, after our likeness; and it was so. And I, God, said: Let them have dominion over the fishes of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.

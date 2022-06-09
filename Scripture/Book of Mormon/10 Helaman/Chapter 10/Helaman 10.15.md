@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Helaman 10:15"]
----
-[Helaman 10:15](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=eng&id=p15#p15) And it came to pass that when Nephi had declared unto them the word, behold, they did still harden their hearts and would not hearken unto his words; therefore they did revile against him, and did seek to lay their hands upon him that they might cast him into prison.

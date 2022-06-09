@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Omni 1:2"]
----
-[Omni 1:2](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng&id=p2#p2) Wherefore, in my days, I would that ye should know that I fought much with the sword to preserve my people, the Nephites, from falling into the hands of their enemies, the Lamanites. But behold, I of myself am a wicked man, and I have not kept the statutes and the commandments of the Lord as I ought to have done.

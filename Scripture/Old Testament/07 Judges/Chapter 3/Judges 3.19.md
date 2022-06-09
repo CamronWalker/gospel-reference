@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Judges 3:19"]
----
-[Judges 3:19](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=eng&id=p19#p19) But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence.  And all that stood by him went out from him.

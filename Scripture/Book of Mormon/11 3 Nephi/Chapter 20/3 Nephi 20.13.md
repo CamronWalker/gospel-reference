@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 20:13"]
----
-[3 Nephi 20:13](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng&id=p13#p13) And then shall the remnants, which shall be scattered abroad upon the face of the earth, be gathered in from the east and from the west, and from the south and from the north; and they shall be brought to the knowledge of the Lord their God, who hath redeemed them.

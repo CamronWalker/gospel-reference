@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["Acts 24:2"]
----
-[Acts 24:2](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=eng&id=p2#p2) And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,

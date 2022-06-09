@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Numbers 31:28"]
----
-[Numbers 31:28](https://churchofjesuschrist.org/study/scriptures/ot/num/31?lang=eng&id=p28#p28) And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:

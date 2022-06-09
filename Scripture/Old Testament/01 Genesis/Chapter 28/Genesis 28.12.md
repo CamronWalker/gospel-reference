@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Genesis 28:12"]
----
-[Genesis 28:12](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=eng&id=p12#p12) And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.

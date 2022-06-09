@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["2 Nephi 28:16"]
----
-[2 Nephi 28:16](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng&id=p16#p16) Wo unto them that turn aside the just for a thing of naught and revile against that which is good, and say that it is of no worth! For the day shall come that the Lord God will speedily visit the inhabitants of the earth; and in that day that they are fully ripe in iniquity they shall perish.

@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Moroni 7:39"]
----
-[Moroni 7:39](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng&id=p39#p39) But behold, my beloved brethren, I judge better things of you, for I judge that ye have faith in Christ because of your meekness; for if ye have not faith in him then ye are not fit to be numbered among the people of his church.

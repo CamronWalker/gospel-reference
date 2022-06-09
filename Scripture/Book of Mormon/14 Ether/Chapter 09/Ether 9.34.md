@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Ether 9:34"]
----
-[Ether 9:34](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng&id=p34#p34) And it came to pass that the people did follow the course of the beasts, and did devour the carcasses of them which fell by the way, until they had devoured them all. Now when the people saw that they must perish they began to repent of their iniquities and cry unto the Lord.

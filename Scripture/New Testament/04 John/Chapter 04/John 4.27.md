@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/NewT, noGraph]
-aliases: ["John 4:27"]
----
-[John 4:27](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=eng&id=p27#p27) ¶ And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?

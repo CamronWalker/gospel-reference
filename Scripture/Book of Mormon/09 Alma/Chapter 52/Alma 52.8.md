@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 52:8"]
----
-[Alma 52:8](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=eng&id=p8#p8) And Moroni also sent orders unto him that he should retain all the prisoners who fell into his hands; for as the Lamanites had taken many prisoners, that he should retain all the prisoners of the Lamanites as a ransom for those whom the Lamanites had taken.

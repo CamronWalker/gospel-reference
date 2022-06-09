@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["3 Nephi 4:17"]
----
-[3 Nephi 4:17](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/4?lang=eng&id=p17#p17) Now they had appointed unto themselves another leader, whose name was Zemnarihah; therefore it was Zemnarihah that did cause that this siege should take place.

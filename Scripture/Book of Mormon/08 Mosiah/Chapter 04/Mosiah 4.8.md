@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Mosiah 4:8"]
----
-[Mosiah 4:8](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p8#p8) And this is the means whereby salvation cometh. And there is none other salvation save this which hath been spoken of; neither are there any conditions whereby man can be saved except the conditions which I have told you.

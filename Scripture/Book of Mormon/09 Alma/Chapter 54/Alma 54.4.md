@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 54:4"]
----
-[Alma 54:4](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=eng&id=p4#p4) Therefore he wrote an epistle, and sent it by the servant of Ammoron, the same who had brought an epistle to Moroni. Now these are the words which he wrote unto Ammoron, saying:

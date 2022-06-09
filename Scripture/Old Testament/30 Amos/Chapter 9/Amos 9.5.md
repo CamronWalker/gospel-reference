@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/OldT, noGraph]
-aliases: ["Amos 9:5"]
----
-[Amos 9:5](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=eng&id=p5#p5) And the Lord GOD of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as by the flood of Egypt.

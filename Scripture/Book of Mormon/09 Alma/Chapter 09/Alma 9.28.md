@@ -1,6 +1,0 @@
----
-publish: true
-tags: [Scripture/BoM, noGraph]
-aliases: ["Alma 9:28"]
----
-[Alma 9:28](https://churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=eng&id=p28#p28) Therefore, prepare ye the way of the Lord, for the time is at hand that all men shall reap a reward of their works, according to that which they have been--if they have been righteous they shall reap the salvation of their souls, according to the power and deliverance of Jesus Christ; and if they have been evil they shall reap the damnation of their souls, according to the power and captivation of the devil.
