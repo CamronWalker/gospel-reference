@@ -22,7 +22,7 @@ tags: [Scripture/OldT]
 
 [Ezra 1:10](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=eng&id=p10#p10) Thirty basons of gold, silver basons of a second sort four hundred and ten, and other vessels a thousand. ^c1v10
 
-[Ezra 1:11](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=eng&id=p11#p11) All the vessels of gold and of silver were five thousand and four hundred.  All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem.PrevHomeNextChapter 36&nbsp;Chapter 2 ^c1v11
+[Ezra 1:11](https://churchofjesuschrist.org/study/scriptures/ot/ezra/1?lang=eng&id=p11#p11) All the vessels of gold and of silver were five thousand and four hundred.  All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem. ^c1v11
 
 [Ezra 2:1](https://churchofjesuschrist.org/study/scriptures/ot/ezra/2?lang=eng&id=p1#p1) NOW these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city; ^c2v1
 
